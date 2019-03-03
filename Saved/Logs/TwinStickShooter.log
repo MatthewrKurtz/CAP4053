@@ -4136,3 +4136,243 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.03.03-06.28.42:484][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/RoomFolder/Door]
 [2019.03.03-06.28.42:580][372]LogSavePackage: Moving '../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Saved/Door_Auto21CCE1F054CBA658DB793138FF57B9A9F.tmp' to '../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Saved/Autosaves/Game/Blueprints/RoomFolder/Door_Auto2.uasset'
 [2019.03.03-06.28.42:583][372]LogFileHelpers: Auto-saving content packages took 0.331
+[2019.03.03-06.52.11:968][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.03-06.52.17:020][327]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.03-06.52.18:326][374]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.03-06.52.19:539][419]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.03-06.52.20:971][475]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.03-06.52.22:067][519]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.03-06.52.23:298][567]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.03-06.52.24:503][617]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.03-06.52.25:780][669]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.03-06.52.26:955][717]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.03-06.52.28:764][799]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.03-06.52.52:725][112]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.03.03-06.52.55:890][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.03-06.53.22:126][243]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/RoomFolder/Level1/E.E
+[2019.03.03-06.54.53:489][265]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2019.03.03-06.55.03:134][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.03-06.55.08:229][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.03-06.55.08:903][610]LogSavePackage: Moving '../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Saved/Test49E0E17C4E31429E3FFC839A5F917508.tmp' to '../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Content/Maps/Test.umap'
+[2019.03.03-06.55.08:974][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2019.03.03-06.55.09:265][610]LogSavePackage: Moving '../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Saved/Test_BuiltData2F2F848D434A53A8A231B39CCCABE91E.tmp' to '../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Content/Maps/Test_BuiltData.uasset'
+[2019.03.03-06.55.15:676][958]BlueprintLog: New page: Compile Test
+[2019.03.03-06.55.18:075][ 39]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.03-06.55.18:120][ 39]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2019.03.03-06.55.18:121][ 39]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.03-06.55.18:211][ 39]LogPlayLevel: [PlayLevel] Compiling Door before play...
+[2019.03.03-06.55.18:536][ 39]LogPlayLevel: PlayLevel: Blueprint regeneration took 415 ms (1 blueprints)
+[2019.03.03-06.55.18:536][ 39]PIE: New page: PIE session: Test (Mar 2, 2019, 8:55:18 PM)
+[2019.03.03-06.55.18:537][ 39]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2019.03.03-06.55.18:562][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024842s)
+[2019.03.03-06.55.18:564][ 39]LogAIModule: Creating AISystem for world Test
+[2019.03.03-06.55.18:564][ 39]LogPlayLevel: PIE: World Init took: (0.002467s)
+[2019.03.03-06.55.18:565][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.027550s)
+[2019.03.03-06.55.18:660][ 39]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.03-06.55.18:687][ 39]LogInit: FAudioDevice initialized.
+[2019.03.03-06.55.18:697][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-06.55.18:869][ 39]LogLoad: Game class is 'TwinStickMode_C'
+[2019.03.03-06.55.18:879][ 39]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.03.03-01.55.18
+[2019.03.03-06.55.18:881][ 39]LogWorld: Bringing up level for play took: 0.009551
+[2019.03.03-06.55.18:948][ 39]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickMode.TwinStickMode_C:ExecuteUbergraph_TwinStickMode'!
+[2019.03.03-06.55.18:948][ 39]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2019.03.03-06.55.18:960][ 39]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 1.36
+[2019.03.03-06.55.18:960][ 39]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2019.03.03-06.55.29:458][236]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2019.03.03-06.55.29:458][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-06.55.29:530][236]LogSlate: Window 'TwinStickShooter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.03-06.55.29:626][236]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.03-06.55.29:626][236]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2019.03.03-06.55.29:730][237]LogPlayLevel: Display: Destroying online subsystem :Context_118
+[2019.03.03-06.55.34:796][402]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.03-06.55.34:827][402]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2019.03.03-06.55.34:827][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.03-06.55.34:827][402]PIE: New page: PIE session: Test (Mar 2, 2019, 8:55:34 PM)
+[2019.03.03-06.55.34:828][402]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2019.03.03-06.55.34:843][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015206s)
+[2019.03.03-06.55.34:843][402]LogAIModule: Creating AISystem for world Test
+[2019.03.03-06.55.34:844][402]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2019.03.03-06.55.34:844][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.016050s)
+[2019.03.03-06.55.34:904][402]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.03-06.55.34:925][402]LogInit: FAudioDevice initialized.
+[2019.03.03-06.55.34:931][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-06.55.35:075][402]LogLoad: Game class is 'TwinStickMode_C'
+[2019.03.03-06.55.35:082][402]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.03.03-01.55.35
+[2019.03.03-06.55.35:083][402]LogWorld: Bringing up level for play took: 0.006922
+[2019.03.03-06.55.35:138][402]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickMode.TwinStickMode_C:ExecuteUbergraph_TwinStickMode'!
+[2019.03.03-06.55.35:138][402]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2019.03.03-06.55.35:147][402]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.452
+[2019.03.03-06.55.35:147][402]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2019.03.03-06.56.49:519][814]LogScript: Warning: Attempted to access Door_C_39 via property North, but Door_C_39 is pending kill
+	N_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.N_2
+	Function /Game/Blueprints/RoomFolder/Level1/N.N_C:ExecuteUbergraph_N:005D
+[2019.03.03-06.56.49:519][814]PIE: Error: Blueprint Runtime Error: "Attempted to access Door_C_39 via property North, but Door_C_39 is pending kill". Blueprint:  N Function:  Execute Ubergraph N Graph:  EventGraph Node:  DestroyActor
+[2019.03.03-06.57.50:641][893]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2019.03.03-06.57.50:643][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-06.57.50:699][893]LogSlate: Window 'TwinStickShooter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.03-06.57.50:798][893]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.03-06.57.50:799][893]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2019.03.03-06.57.50:995][894]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2019.03.03-06.57.52:722][962]LogSlate: Window 'Message Log' being destroyed
+[2019.03.03-06.57.52:740][962]LogSlate: Window 'Message Log' being destroyed
+[2019.03.03-06.57.56:528][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.03-06.58.01:440][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.03-06.58.32:804][468]Cmd: EDIT COPY
+[2019.03.03-06.58.34:465][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.03-06.58.34:745][514]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Test.Test
+[2019.03.03-06.58.36:037][514]LogSlate: Window 'Save Content' being destroyed
+[2019.03.03-06.58.36:048][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/RoomFolder/Door" FILE="../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Content/Blueprints/RoomFolder/Door.uasset" SILENT=true
+[2019.03.03-06.58.36:147][514]LogSavePackage: Moving '../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Saved/Door8E212C0247223187F35981AB4F092E9A.tmp' to '../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Content/Blueprints/RoomFolder/Door.uasset'
+[2019.03.03-06.58.36:157][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.03-06.58.36:228][514]LogSavePackage: Moving '../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Saved/Level1683E4A774AA0AA203DA677A9B68B5AAD.tmp' to '../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Content/Maps/Level1.umap'
+[2019.03.03-06.58.36:231][514]LogFileHelpers: Saving map 'Level1' took 0.074
+[2019.03.03-06.58.36:232][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.03-06.58.36:791][514]LogSavePackage: Moving '../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Saved/Test3F06817141F4E0E1EC5D4F98C79AE465.tmp' to '../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Content/Maps/Test.umap'
+[2019.03.03-06.58.36:839][514]LogFileHelpers: Saving map 'Test' took 0.609
+[2019.03.03-06.58.36:860][514]Cmd: MAP LOAD FILE="../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Content/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.03-06.58.36:861][514]LightingResults: New page: Lighting Build
+[2019.03.03-06.58.36:867][514]LoadErrors: New page: Loading map: Test.umap
+[2019.03.03-06.58.37:009][514]MapCheck: New page: Map Check
+[2019.03.03-06.58.37:009][514]LightingResults: New page: Lighting Build
+[2019.03.03-06.58.38:429][514]LogLinker: Warning: Can't find file '/Game/Blueprints/TridentShotWeapon'
+[2019.03.03-06.58.38:430][514]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/TridentShotWeapon' while loading ../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Content/Blueprints/UI/UI_inventory.uasset.
+[2019.03.03-06.58.38:430][514]LoadErrors: Error: /Game/Blueprints/UI/UI_inventory : Can't find file for asset. /Game/Blueprints/TridentShotWeapon
+[2019.03.03-06.58.38:436][514]LogLinker: Warning: Can't find file '/Game/Blueprints/TridentShotWeapon'
+[2019.03.03-06.58.38:436][514]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/TridentShotWeapon' while loading ../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Content/Blueprints/UI/UI_InventoryItem.uasset.
+[2019.03.03-06.58.38:436][514]LoadErrors: Error: /Game/Blueprints/UI/UI_InventoryItem : Can't find file for asset. /Game/Blueprints/TridentShotWeapon
+[2019.03.03-06.58.38:438][514]LogLinker: Warning: Can't find file '/Game/Blueprints/TridentShotWeapon'
+[2019.03.03-06.58.38:438][514]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/TridentShotWeapon' while loading ../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Content/Blueprints/UI/UI_InventoryItem.uasset.
+[2019.03.03-06.58.38:441][514]LogLinker: Warning: Can't find file '/Game/Blueprints/TridentShotWeapon'
+[2019.03.03-06.58.38:441][514]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/TridentShotWeapon' while loading ../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Content/Blueprints/UI/UI_inventory.uasset.
+[2019.03.03-06.58.38:735][514]LogAIModule: Creating AISystem for world Test
+[2019.03.03-06.58.38:981][514]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.03-06.58.39:128][514]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.03-06.58.39:129][514]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.368ms to complete.
+[2019.03.03-06.58.39:131][514]LogFileHelpers: Loading map 'Test' took 2.290
+[2019.03.03-06.58.39:217][514]LoadErrors: Error: /Game/Blueprints/UI/UI_inventory : Failed import for ClassProperty /Game/Blueprints/Interactables/FItemInfo.FItemInfo:WeaponType_27_994C11B348ABCAD1ECAA4193B00E59BB Referenced by export Function /Game/Blueprints/UI/UI_inventory.UI_inventory_C:ExecuteUbergraph_UI_inventory
+[2019.03.03-06.58.42:685][649]LogSlate: Window 'Message Log' being destroyed
+[2019.03.03-06.58.42:702][649]LogSlate: Window 'Message Log' being destroyed
+[2019.03.03-06.58.43:794][700]LogAIModule: Creating AISystem for world Level1
+[2019.03.03-06.58.43:797][700]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Level1.Level1
+[2019.03.03-06.58.43:844][700]Cmd: MAP LOAD FILE="../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.03-06.58.43:844][700]LightingResults: New page: Lighting Build
+[2019.03.03-06.58.43:845][700]LoadErrors: New page: Loading map: Level1.umap
+[2019.03.03-06.58.43:846][700]MapCheck: New page: Map Check
+[2019.03.03-06.58.43:846][700]LightingResults: New page: Lighting Build
+[2019.03.03-06.58.43:966][700]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.03-06.58.44:057][700]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.03-06.58.44:058][700]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.172ms to complete.
+[2019.03.03-06.58.44:058][700]LogFileHelpers: Loading map 'Level1' took 0.215
+[2019.03.03-06.58.48:129][920]Cmd: EDIT PASTE
+[2019.03.03-06.58.48:214][920]Warning: Invalid subscript in default properties: (Box)="InteractableArea (Box)"
+[2019.03.03-06.58.48:214][920]LogProperty: Warning: ObjectProperty /Game/Blueprints/Interactables/BP_BaseInteractable.BP_BaseInteractable_C:InteractableArea: unresolved reference to '"InteractableArea (Box)"'
+[2019.03.03-06.58.48:382][920]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.03.03-06.58.51:260][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.03-06.59.03:182][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.03-06.59.08:436][881]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Level1.Level1
+[2019.03.03-06.59.10:375][881]LogSlate: Window 'Save Content' being destroyed
+[2019.03.03-06.59.10:386][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.03-06.59.10:841][881]LogSavePackage: Moving '../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Saved/Level1C12D008941586D53B7D88D955FEDE902.tmp' to '../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Content/Maps/Level1.umap'
+[2019.03.03-06.59.10:892][881]LogFileHelpers: Saving map 'Level1' took 0.506
+[2019.03.03-06.59.10:896][881]Cmd: MAP LOAD FILE="../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.03-06.59.10:896][881]LightingResults: New page: Lighting Build
+[2019.03.03-06.59.10:897][881]LoadErrors: New page: Loading map: Level1.umap
+[2019.03.03-06.59.10:899][881]MapCheck: New page: Map Check
+[2019.03.03-06.59.10:899][881]LightingResults: New page: Lighting Build
+[2019.03.03-06.59.10:990][881]LogAIModule: Creating AISystem for world Level1
+[2019.03.03-06.59.11:120][881]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.03-06.59.11:216][881]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.03-06.59.11:217][881]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.176ms to complete.
+[2019.03.03-06.59.11:218][881]LogFileHelpers: Loading map 'Level1' took 0.324
+[2019.03.03-06.59.15:518][ 58]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Level1.Level1:PersistentLevel.Level1
+[2019.03.03-06.59.19:017][174]LogAIModule: Creating AISystem for world Test
+[2019.03.03-06.59.19:048][174]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Test.Test
+[2019.03.03-06.59.19:098][174]Cmd: MAP LOAD FILE="../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Content/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.03-06.59.19:098][174]LightingResults: New page: Lighting Build
+[2019.03.03-06.59.19:099][174]LoadErrors: New page: Loading map: Test.umap
+[2019.03.03-06.59.19:102][174]LogSlate: Window 'Level1 - Level Blueprint Editor' being destroyed
+[2019.03.03-06.59.19:172][174]MapCheck: New page: Map Check
+[2019.03.03-06.59.19:172][174]LightingResults: New page: Lighting Build
+[2019.03.03-06.59.19:466][174]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.03-06.59.19:562][174]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.03-06.59.19:562][174]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.219ms to complete.
+[2019.03.03-06.59.19:562][174]LogFileHelpers: Loading map 'Test' took 0.465
+[2019.03.03-06.59.24:127][363]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Test.Test:PersistentLevel.Test
+[2019.03.03-06.59.26:994][404]LogSlate: Window 'Test - Level Blueprint Editor' being destroyed
+[2019.03.03-06.59.31:167][566]LogAIModule: Creating AISystem for world Level1
+[2019.03.03-06.59.37:907][910]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Level1.Level1
+[2019.03.03-06.59.37:956][910]Cmd: MAP LOAD FILE="../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.03-06.59.37:957][910]LightingResults: New page: Lighting Build
+[2019.03.03-06.59.37:957][910]LoadErrors: New page: Loading map: Level1.umap
+[2019.03.03-06.59.38:034][910]MapCheck: New page: Map Check
+[2019.03.03-06.59.38:035][910]LightingResults: New page: Lighting Build
+[2019.03.03-06.59.38:259][910]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.03-06.59.38:356][910]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.03-06.59.38:357][910]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.174ms to complete.
+[2019.03.03-06.59.38:358][910]LogFileHelpers: Loading map 'Level1' took 0.403
+[2019.03.03-06.59.47:295][303]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Level1.Level1:PersistentLevel.Level1
+[2019.03.03-06.59.50:805][432]LogSlate: Window 'Level1 - Level Blueprint Editor' being destroyed
+[2019.03.03-06.59.52:896][539]LogAIModule: Creating AISystem for world Test
+[2019.03.03-06.59.56:571][739]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Test.Test
+[2019.03.03-06.59.56:623][739]Cmd: MAP LOAD FILE="../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Content/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.03-06.59.56:623][739]LightingResults: New page: Lighting Build
+[2019.03.03-06.59.56:624][739]LoadErrors: New page: Loading map: Test.umap
+[2019.03.03-06.59.56:687][739]MapCheck: New page: Map Check
+[2019.03.03-06.59.56:687][739]LightingResults: New page: Lighting Build
+[2019.03.03-06.59.56:924][739]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.03-06.59.57:018][739]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.03-06.59.57:019][739]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.175ms to complete.
+[2019.03.03-06.59.57:020][739]LogFileHelpers: Loading map 'Test' took 0.397
+[2019.03.03-07.00.04:673][111]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Test.Test:PersistentLevel.Test
+[2019.03.03-07.00.12:014][359]LogSlate: Window 'Test - Level Blueprint Editor' being destroyed
+[2019.03.03-07.00.12:032][359]LogSlate: Window 'Test - Level Blueprint Editor' being destroyed
+[2019.03.03-07.00.15:492][522]LogAIModule: Creating AISystem for world Level1
+[2019.03.03-07.00.15:520][522]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Level1.Level1
+[2019.03.03-07.00.15:567][522]Cmd: MAP LOAD FILE="../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.03-07.00.15:567][522]LightingResults: New page: Lighting Build
+[2019.03.03-07.00.15:568][522]LoadErrors: New page: Loading map: Level1.umap
+[2019.03.03-07.00.15:571][522]MapCheck: New page: Map Check
+[2019.03.03-07.00.15:571][522]LightingResults: New page: Lighting Build
+[2019.03.03-07.00.15:753][522]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.03-07.00.15:844][522]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.03-07.00.15:845][522]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.183ms to complete.
+[2019.03.03-07.00.15:845][522]LogFileHelpers: Loading map 'Level1' took 0.280
+[2019.03.03-07.00.18:573][625]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Level1.Level1:PersistentLevel.Level1
+[2019.03.03-07.00.19:050][625]LogEditorViewport: Clicking on Actor (LMB): SE_C (SE)
+[2019.03.03-07.00.19:928][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.03-07.00.24:062][787]LogAIModule: Creating AISystem for world Test
+[2019.03.03-07.00.24:091][787]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CameraActor /Game/Maps/Test.Test:PersistentLevel.CameraActor_1) from referencer (K2Node_Literal /Game/Maps/Level1.Level1:PersistentLevel.Level1.EventGraph.K2Node_Literal_5).  Import failed...
+[2019.03.03-07.00.24:091][787]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'CameraActor'"/Game/Maps/Test.Test:PersistentLevel.CameraActor_1"''
+[2019.03.03-07.00.24:093][787]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CameraActor /Game/Maps/Test.Test:PersistentLevel.CameraActor_1) from referencer (K2Node_Literal /Game/Maps/Level1.Level1:PersistentLevel.Level1.EventGraph.K2Node_Literal_3).  Import failed...
+[2019.03.03-07.00.24:093][787]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'CameraActor'"/Game/Maps/Test.Test:PersistentLevel.CameraActor_1"''
+[2019.03.03-07.00.31:947][ 69]LogSlate: Window 'Level1* - Level Blueprint Editor' being destroyed
+[2019.03.03-07.00.56:882][364]BlueprintLog: New page: Compile Level1
+[2019.03.03-07.00.58:574][423]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.03-07.00.58:609][423]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.03-07.00.58:610][423]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.03-07.00.58:610][423]PIE: New page: PIE session: Level1 (Mar 2, 2019, 9:00:58 PM)
+[2019.03.03-07.00.58:610][423]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.03.03-07.00.58:623][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013122s)
+[2019.03.03-07.00.58:624][423]LogAIModule: Creating AISystem for world Level1
+[2019.03.03-07.00.58:624][423]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2019.03.03-07.00.58:624][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.014226s)
+[2019.03.03-07.00.58:707][423]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.03-07.00.58:728][423]LogInit: FAudioDevice initialized.
+[2019.03.03-07.00.58:736][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-07.00.58:834][423]LogLoad: Game class is 'TwinStickMode_C'
+[2019.03.03-07.00.58:840][423]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.03.03-02.00.58
+[2019.03.03-07.00.58:844][423]LogWorld: Bringing up level for play took: 0.009238
+[2019.03.03-07.00.58:898][423]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickMode.TwinStickMode_C:ExecuteUbergraph_TwinStickMode'!
+[2019.03.03-07.00.58:898][423]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2019.03.03-07.00.58:903][423]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.696
+[2019.03.03-07.00.58:904][423]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.03-07.01.12:262][771]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.03-07.01.12:263][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-07.01.12:346][771]LogSlate: Window 'TwinStickShooter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.03-07.01.12:409][771]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.03-07.01.12:410][771]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.03-07.01.12:549][772]LogPlayLevel: Display: Destroying online subsystem :Context_125
+[2019.03.03-07.03.13:678][307]LogEditorViewport: Clicking Background
+[2019.03.03-07.03.16:154][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.03-07.03.16:251][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.03-07.03.16:637][449]LogSavePackage: Moving '../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Saved/Level1E2EA3EDF46E2C6B75DD4CDBB75D6AD75.tmp' to '../../../../../../Users/Leehe/Documents/Unreal Projects/CAP4053/Content/Maps/Level1.umap'
