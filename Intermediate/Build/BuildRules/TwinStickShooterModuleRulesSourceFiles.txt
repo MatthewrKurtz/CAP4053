@@ -1,3 +1,0 @@
-C:\Users\Matthew Kurtz\Documents\Unreal Projects\CAP4053\Source\TwinStickShooter\TwinStickShooter.Build.cs
-C:\Users\Matthew Kurtz\Documents\Unreal Projects\CAP4053\Source\TwinStickShooter.Target.cs
-C:\Users\Matthew Kurtz\Documents\Unreal Projects\CAP4053\Source\TwinStickShooterEditor.Target.cs
