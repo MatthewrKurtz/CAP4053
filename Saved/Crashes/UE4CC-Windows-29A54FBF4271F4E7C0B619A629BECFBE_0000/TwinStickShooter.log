@@ -1,0 +1,1690 @@
+﻿Log file open, 04/03/19 05:13:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TwinStickShooter
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 17 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.297277
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.116s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD FX(tm)-6300 Six-Core Processor             , GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: J:/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.034s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [J:/Documents/Unreal Projects/CAP4053/Saved/Config/Windows/Engine.ini]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.04.03-09.13.17:939][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[vr.MonoscopicFarField:0]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.04.03-09.13.17:940][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [J:/Documents/Unreal Projects/CAP4053/Saved/Config/Windows/Engine.ini]
+[2019.04.03-09.13.17:941][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [J:/Documents/Unreal Projects/CAP4053/Saved/Config/Windows/Engine.ini]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [J:/Documents/Unreal Projects/CAP4053/Saved/Config/Windows/Engine.ini]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.03-09.13.17:941][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [J:/Documents/Unreal Projects/CAP4053/Saved/Config/Windows/Engine.ini]
+[2019.04.03-09.13.17:941][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [J:/Documents/Unreal Projects/CAP4053/Saved/Config/Windows/Engine.ini]
+[2019.04.03-09.13.17:945][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [J:/Documents/Unreal Projects/CAP4053/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-09.13.17:945][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.03-09.13.17:945][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.03-09.13.17:945][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [J:/Documents/Unreal Projects/CAP4053/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-09.13.17:945][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.03-09.13.17:945][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [J:/Documents/Unreal Projects/CAP4053/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-09.13.17:945][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.03-09.13.17:945][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.03-09.13.17:945][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.03-09.13.17:945][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.03-09.13.17:945][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.03-09.13.17:945][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.03-09.13.17:945][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.03-09.13.17:945][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.03-09.13.17:945][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [J:/Documents/Unreal Projects/CAP4053/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [J:/Documents/Unreal Projects/CAP4053/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [J:/Documents/Unreal Projects/CAP4053/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.03-09.13.17:946][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.03-09.13.17:947][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.03-09.13.17:947][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.03-09.13.17:947][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.03-09.13.17:947][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.03-09.13.17:947][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.03-09.13.17:947][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.03-09.13.17:947][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.03-09.13.17:947][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.03-09.13.17:947][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.03-09.13.17:947][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.03-09.13.17:947][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [J:/Documents/Unreal Projects/CAP4053/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-09.13.17:947][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.03-09.13.17:947][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.03-09.13.17:947][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.03-09.13.17:947][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.03-09.13.17:957][  0]LogHAL: Display: Platform has ~ 8 GB [8571179008 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.03-09.13.17:957][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.04.03-09.13.17:958][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.03-09.13.17:958][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [J:/Documents/Unreal Projects/CAP4053/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [J:/Documents/Unreal Projects/CAP4053/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [J:/Documents/Unreal Projects/CAP4053/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [J:/Documents/Unreal Projects/CAP4053/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.03-09.13.17:958][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [J:/Documents/Unreal Projects/CAP4053/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [J:/Documents/Unreal Projects/CAP4053/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [J:/Documents/Unreal Projects/CAP4053/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.03-09.13.17:959][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.03-09.13.17:959][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [J:/Documents/Unreal Projects/CAP4053/Saved/Config/Windows/Engine.ini]
+[2019.04.03-09.13.17:960][  0]LogInit: Computer: XIGAMMASPEED
+[2019.04.03-09.13.17:960][  0]LogInit: User: Jordan
+[2019.04.03-09.13.17:960][  0]LogInit: CPU Page size=4096, Cores=3
+[2019.04.03-09.13.17:960][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.04.03-09.13.17:960][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.04.03-09.13.17:960][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.03-09.13.17:960][  0]LogMemory: Process Physical Memory: 104.13 MB used, 104.13 MB peak
+[2019.04.03-09.13.17:960][  0]LogMemory: Process Virtual Memory: 95.61 MB used, 95.61 MB peak
+[2019.04.03-09.13.17:960][  0]LogMemory: Physical Memory: 6727.72 MB used,  1446.39 MB free, 8174.11 MB total
+[2019.04.03-09.13.17:960][  0]LogMemory: Virtual Memory: 4635.69 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2019.04.03-09.13.17:984][  0]LogInit: Using OS detected language (en-US).
+[2019.04.03-09.13.17:984][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.03-09.13.17:985][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.03-09.13.18:496][  0]LogStreaming: Display: Took  0.513s to InitEngineTextLocalization.
+[2019.04.03-09.13.18:497][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.03-09.13.18:570][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.03-09.13.18:571][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.03-09.13.18:937][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.03-09.13.18:937][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.03-09.13.19:043][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.04.03-09.13.19:043][  0]LogD3D11RHI:       4018/0/4087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.03-09.13.19:046][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.03-09.13.19:046][  0]LogD3D11RHI:       0/0/4087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.03-09.13.19:046][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.03-09.13.19:060][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.03-09.13.19:060][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.03-09.13.19:060][  0]LogWindows: EnumDisplayDevices:
+[2019.04.03-09.13.19:060][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2019.04.03-09.13.19:061][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.04.03-09.13.19:061][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.04.03-09.13.19:062][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.04.03-09.13.19:062][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.04.03-09.13.19:062][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.04.03-09.13.19:062][  0]LogD3D11RHI:   Driver Version: 416.34 (internal:25.21.14.1634, unified:416.34)
+[2019.04.03-09.13.19:062][  0]LogD3D11RHI:      Driver Date: 10-10-2018
+[2019.04.03-09.13.19:062][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2019.04.03-09.13.19:135][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.03-09.13.19:169][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.04.03-09.13.19:665][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.03-09.13.19:685][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.03-09.13.19:705][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.03-09.13.19:725][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.03-09.13.19:744][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.03-09.13.19:764][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.03-09.13.19:784][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.03-09.13.19:811][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.03-09.13.19:820][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.03-09.13.19:932][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-09.13.19:932][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-09.13.19:932][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-09.13.19:932][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-09.13.19:932][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-09.13.19:932][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-09.13.19:932][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-09.13.19:932][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-09.13.19:933][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-09.13.19:933][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-09.13.19:933][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-09.13.19:933][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-09.13.19:933][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-09.13.19:933][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-09.13.19:933][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-09.13.19:933][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-09.13.19:933][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-09.13.19:933][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-09.13.19:934][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.03-09.13.20:006][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.03-09.13.20:006][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.03-09.13.20:043][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.03-09.13.20:043][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.03-09.13.20:061][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.03-09.13.20:079][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.03-09.13.20:098][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.03-09.13.20:117][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.03-09.13.20:187][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.03-09.13.20:187][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.03-09.13.20:187][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.03-09.13.20:264][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../Documents/Unreal Projects/CAP4053/Intermediate/Shaders/WorkingDirectory/22036/).
+[2019.04.03-09.13.20:264][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jordan/AppData/Local/Temp/UnrealShaderWorkingDir/7FB5E9104B0B350010523EB3AAD97352/'.
+[2019.04.03-09.13.20:267][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.03-09.13.20:267][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.03-09.13.20:267][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.03-09.13.21:125][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.03-09.13.21:204][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/Jordan/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.03-09.13.21:204][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jordan/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.04.03-09.13.21:204][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Documents/Unreal Projects/CAP4053/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.03-09.13.21:205][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.03-09.13.21:205][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Documents/Unreal Projects/CAP4053/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.03-09.13.21:205][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.03-09.13.21:230][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.03-09.13.21:230][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.03-09.13.21:230][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.03-09.13.21:243][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jordan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.03-09.13.21:243][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.03-09.13.21:243][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.03-09.13.21:281][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.03-09.13.21:282][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.03-09.13.21:283][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.03-09.13.21:398][  0]LogAssetRegistry: FAssetRegistry took 0.0391 seconds to start up
+[2019.04.03-09.13.21:923][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.03-09.13.22:132][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.03-09.13.22:137][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.03-09.13.22:137][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.03-09.13.22:137][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.03-09.13.22:137][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.03-09.13.22:158][  0]LogNetVersion: TwinStickShooter 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1088199152)
+[2019.04.03-09.13.22:865][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.085746 seconds
+[2019.04.03-09.13.22:874][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.04.03-09.13.22:874][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.04.03-09.13.22:874][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.03-09.13.24:031][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.03-09.13.24:046][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.03-09.13.25:005][  0]SourceControl: Source control is disabled
+[2019.04.03-09.13.25:005][  0]SourceControl: Source control is disabled
+[2019.04.03-09.13.25:006][  0]SourceControl: Source control is disabled
+[2019.04.03-09.13.25:008][  0]SourceControl: Source control is disabled
+[2019.04.03-09.13.25:211][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.03-09.13.25:316][  0]LogOcInput: OculusInput pre-init called
+[2019.04.03-09.13.25:502][  0]LogEngine: Initializing Engine...
+[2019.04.03-09.13.25:504][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.03-09.13.25:506][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.03-09.13.25:506][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.03-09.13.25:506][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.03-09.13.25:506][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.03-09.13.25:799][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.03-09.13.25:816][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.03-09.13.25:922][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.03-09.13.25:944][  0]LogInit: FAudioDevice initialized.
+[2019.04.03-09.13.25:945][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.03-09.13.26:093][  0]LogDerivedDataCache: Saved boot cache 0.15s 71MB C:/Users/Jordan/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.03-09.13.26:102][  0]LogInit: Texture streaming: Enabled
+[2019.04.03-09.13.26:132][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.03-09.13.26:151][  0]LogInit: Transaction tracking system initialized
+[2019.04.03-09.13.26:191][  0]BlueprintLog: New page: Editor Load
+[2019.04.03-09.13.26:302][  0]LocalizationService: Localization service is disabled
+[2019.04.03-09.13.26:895][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.03-09.13.26:895][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.03-09.13.26:899][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.03-09.13.26:899][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.03-09.13.26:899][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.03-09.13.26:899][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.03-09.13.26:899][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.03-09.13.27:090][  0]LogFileCache: Scanning file cache for directory 'J:/Documents/Unreal Projects/CAP4053/Content/' took 0.07s
+[2019.04.03-09.13.27:090][  0]SourceControl: Source control is disabled
+[2019.04.03-09.13.27:091][  0]Cmd: MAP LOAD FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/Maps/SqaureMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.03-09.13.27:091][  0]LogEditorServer: Warning: Can't find file '../../../../../Documents/Unreal Projects/CAP4053/Content/Maps/SqaureMap.umap'
+[2019.04.03-09.13.27:091][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.03-09.13.27:091][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.159ms to complete.
+[2019.04.03-09.13.27:091][  0]LogFileHelpers: Loading map 'SqaureMap' took 0.001
+[2019.04.03-09.13.27:454][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-09.13.27:465][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-09.13.27:478][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-09.13.27:489][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-09.13.27:554][  0]LogCollectionManager: Loaded 0 collections in 0.002303 seconds
+[2019.04.03-09.13.27:593][  0]LogFileCache: Scanning file cache for directory 'J:/Documents/Unreal Projects/CAP4053/Saved/Collections/' took 0.01s
+[2019.04.03-09.13.27:593][  0]LogFileCache: Scanning file cache for directory 'J:/Documents/Unreal Projects/CAP4053/Content/Developers/Jordan/Collections/' took 0.00s
+[2019.04.03-09.13.27:593][  0]LogFileCache: Scanning file cache for directory 'J:/Documents/Unreal Projects/CAP4053/Content/Collections/' took 0.01s
+[2019.04.03-09.13.27:593][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.04.03-09.13.27:624][  0]LogContentBrowser: Native class hierarchy populated in 0.0172 seconds. Added 2652 classes and 622 folders.
+[2019.04.03-09.13.27:650][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.04.03-09.13.27:678][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-09.13.27:712][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-09.13.27:715][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-09.13.27:726][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-09.13.27:732][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-09.13.27:741][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-09.13.27:747][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-09.13.27:750][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-09.13.27:754][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-09.13.27:767][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-09.13.27:775][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-09.13.27:780][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-09.13.27:784][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-09.13.27:800][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-09.13.27:808][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-09.13.27:817][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-09.13.27:828][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-09.13.27:831][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-09.13.27:851][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-09.13.27:860][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-09.13.27:864][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-09.13.27:867][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-09.13.27:871][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-09.13.27:879][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-09.13.27:889][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-09.13.27:892][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-09.13.28:578][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0016 seconds. Added 0 classes and 0 folders.
+[2019.04.03-09.13.28:654][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0015 seconds. Added 1 classes and 2 folders.
+[2019.04.03-09.13.28:815][  0]LogSlate: Took 0.000731 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.03-09.13.28:829][  0]LogSlate: Took 0.000856 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.03-09.13.28:872][  0]LogSlate: Took 0.015467 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.03-09.13.28:989][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.04.03-09.13.29:182][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.04.03-09.13.29:182][  0]LogLoad: (Engine Initialization) Total time: 13.75 seconds
+[2019.04.03-09.13.29:182][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.03-09.13.29:194][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.03-09.13.29:322][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.03-09.13.29:459][  0]LogSlate: Took 0.082915 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.03-09.13.29:505][  1]LogAssetRegistry: Asset discovery search completed in 8.1296 seconds
+[2019.04.03-09.13.29:508][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.04.03-09.13.29:508][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000096 seconds (updated 0 objects)
+[2019.04.03-09.13.32:202][307]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.03-09.13.34:472][571]LogFileCache: Retrieving MD5 hashes for directory 'J:/Documents/Unreal Projects/CAP4053/Content/' took 5.26s
+[2019.04.03-09.13.36:218][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-09.13.36:424][797]AssetReimport: New page: Outstanding source content changes 1:13:36 AM
+[2019.04.03-09.13.36:487][798]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Standing 2H Magic Attack 01.fbx)
+[2019.04.03-09.13.36:571][798]LogFbx: Loading FBX Scene from J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Standing 2H Magic Attack 01.fbx
+[2019.04.03-09.13.36:708][798]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.03-09.13.38:649][798]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.03-09.13.38:694][798]LogFbx: =================================================
+[2019.04.03-09.13.38:694][798]LogFbx: Dumping Node START [Nightshade] 
+[2019.04.03-09.13.38:694][798]LogFbx: 	Total Deformer Count 1290496256.
+[2019.04.03-09.13.38:694][798]LogFbx: 		[Node 1] Skin Nightshade (Type Skin).
+[2019.04.03-09.13.38:694][798]LogFbx: =================================================
+[2019.04.03-09.13.38:694][798]LogFbx: 	Attribute (Nightshade) Type (4).
+[2019.04.03-09.13.38:694][798]LogFbx: 		[Node Attribute Child 1] Nightshade (Type Mesh).
+[2019.04.03-09.13.38:694][798]LogFbx: Dumping Node END [Nightshade]
+[2019.04.03-09.13.38:695][798]LogFbx: =================================================
+[2019.04.03-09.13.38:696][798]LogFbx: Dumping Node START [Nightshade] 
+[2019.04.03-09.13.38:696][798]LogFbx: 	Total Deformer Count 1290496256.
+[2019.04.03-09.13.38:696][798]LogFbx: 		[Node 1] Skin Nightshade (Type Skin).
+[2019.04.03-09.13.38:696][798]LogFbx: =================================================
+[2019.04.03-09.13.38:696][798]LogFbx: 	Attribute (Nightshade) Type (4).
+[2019.04.03-09.13.38:696][798]LogFbx: 		[Node Attribute Child 1] Nightshade (Type Mesh).
+[2019.04.03-09.13.38:696][798]LogFbx: Dumping Node END [Nightshade]
+[2019.04.03-09.13.38:698][798]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Nightshade
+[2019.04.03-09.13.39:142][798]LogLinker: Can't find file '/Game/anim/teleport/attack/Nightshade_diffuse'
+[2019.04.03-09.13.39:142][798]LogLinker: Can't find file '/Game/anim/teleport/attack/Nightshade_diffuse'
+[2019.04.03-09.13.42:453][798]LogLinker: Can't find file '/Game/anim/teleport/attack/Nightshade_glow'
+[2019.04.03-09.13.42:453][798]LogLinker: Can't find file '/Game/anim/teleport/attack/Nightshade_glow'
+[2019.04.03-09.13.42:921][798]LogLinker: Can't find file '/Game/anim/teleport/attack/Nightshade_specular'
+[2019.04.03-09.13.42:922][798]LogLinker: Can't find file '/Game/anim/teleport/attack/Nightshade_specular'
+[2019.04.03-09.13.46:209][798]LogLinker: Can't find file '/Game/anim/teleport/attack/Nightshade_normal'
+[2019.04.03-09.13.46:209][798]LogLinker: Can't find file '/Game/anim/teleport/attack/Nightshade_normal'
+[2019.04.03-09.13.47:006][798]LogFbx: Triangulating skeletal mesh Nightshade
+[2019.04.03-09.13.48:412][798]LogSkeletalMesh: Section 0: 8171 vertices, 52 active bones
+[2019.04.03-09.13.48:414][798]LogSkeletalMesh: Section 0: Material=0, 12996 triangles
+[2019.04.03-09.13.48:415][798]LogSkeletalMesh: Building Skeletal Mesh Standing_2H_Magic_Attack_01...
+[2019.04.03-09.13.48:441][798]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/anim/teleport/attack/Standing_2H_Magic_Attack_01.Standing_2H_Magic_Attack_01
+[2019.04.03-09.13.48:461][798]LogLinker: Can't find file '/Game/anim/teleport/attack/Standing_2H_Magic_Attack_01_Skeleton'
+[2019.04.03-09.13.48:461][798]LogLinker: Can't find file '/Game/anim/teleport/attack/Standing_2H_Magic_Attack_01_Skeleton'
+[2019.04.03-09.13.48:464][798]LogLinker: Can't find file '/Game/anim/teleport/attack/Standing_2H_Magic_Attack_01_PhysicsAsset'
+[2019.04.03-09.13.48:464][798]LogLinker: Can't find file '/Game/anim/teleport/attack/Standing_2H_Magic_Attack_01_PhysicsAsset'
+[2019.04.03-09.13.48:492][798]LogFbx: =================================================
+[2019.04.03-09.13.48:492][798]LogFbx: Dumping Node START [Nightshade] 
+[2019.04.03-09.13.48:492][798]LogFbx: 	Total Deformer Count 1127987520.
+[2019.04.03-09.13.48:492][798]LogFbx: 		[Node 1] Skin Nightshade (Type Skin).
+[2019.04.03-09.13.48:492][798]LogFbx: =================================================
+[2019.04.03-09.13.48:492][798]LogFbx: 	Attribute (Nightshade) Type (4).
+[2019.04.03-09.13.48:492][798]LogFbx: 		[Node Attribute Child 1] Nightshade (Type Mesh).
+[2019.04.03-09.13.48:492][798]LogFbx: Dumping Node END [Nightshade]
+[2019.04.03-09.13.48:493][798]LogFbx: =================================================
+[2019.04.03-09.13.48:493][798]LogFbx: Dumping Node START [Nightshade] 
+[2019.04.03-09.13.48:493][798]LogFbx: 	Total Deformer Count 1127987520.
+[2019.04.03-09.13.48:493][798]LogFbx: 		[Node 1] Skin Nightshade (Type Skin).
+[2019.04.03-09.13.48:493][798]LogFbx: =================================================
+[2019.04.03-09.13.48:493][798]LogFbx: 	Attribute (Nightshade) Type (4).
+[2019.04.03-09.13.48:493][798]LogFbx: 		[Node Attribute Child 1] Nightshade (Type Mesh).
+[2019.04.03-09.13.48:493][798]LogFbx: Dumping Node END [Nightshade]
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(0) Hips
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(1) Spine
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(2) Spine1
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(3) Spine2
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(4) Neck
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(5) Head
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(8) LeftArm
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(10) LeftHand
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(23) LeftHandRing1
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(24) LeftHandRing2
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(25) LeftHandRing3
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(26) LeftHandRing4
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(31) RightShoulder
+[2019.04.03-09.13.48:494][798]LogFbx: SortedLinks :(32) RightArm
+[2019.04.03-09.13.48:495][798]LogFbx: SortedLinks :(33) RightForeArm
+[2019.04.03-09.13.48:495][798]LogFbx: SortedLinks :(34) RightHand
+[2019.04.03-09.13.48:495][798]LogFbx: SortedLinks :(35) RightHandPinky1
+[2019.04.03-09.13.48:495][798]LogFbx: SortedLinks :(36) RightHandPinky2
+[2019.04.03-09.13.48:495][798]LogFbx: SortedLinks :(37) RightHandPinky3
+[2019.04.03-09.13.48:495][798]LogFbx: SortedLinks :(38) RightHandPinky4
+[2019.04.03-09.13.48:495][798]LogFbx: SortedLinks :(39) RightHandRing1
+[2019.04.03-09.13.48:495][798]LogFbx: SortedLinks :(40) RightHandRing2
+[2019.04.03-09.13.48:495][798]LogFbx: SortedLinks :(41) RightHandRing3
+[2019.04.03-09.13.48:495][798]LogFbx: SortedLinks :(42) RightHandRing4
+[2019.04.03-09.13.48:495][798]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2019.04.03-09.13.48:495][798]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2019.04.03-09.13.48:495][798]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2019.04.03-09.13.48:495][798]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2019.04.03-09.13.48:495][798]LogFbx: SortedLinks :(47) RightHandIndex1
+[2019.04.03-09.13.48:495][798]LogFbx: SortedLinks :(48) RightHandIndex2
+[2019.04.03-09.13.48:495][798]LogFbx: SortedLinks :(49) RightHandIndex3
+[2019.04.03-09.13.48:495][798]LogFbx: SortedLinks :(50) RightHandIndex4
+[2019.04.03-09.13.48:495][798]LogFbx: SortedLinks :(51) RightHandThumb1
+[2019.04.03-09.13.48:495][798]LogFbx: SortedLinks :(52) RightHandThumb2
+[2019.04.03-09.13.48:495][798]LogFbx: SortedLinks :(53) RightHandThumb3
+[2019.04.03-09.13.48:495][798]LogFbx: SortedLinks :(54) RightHandThumb4
+[2019.04.03-09.13.48:495][798]LogFbx: SortedLinks :(55) LeftUpLeg
+[2019.04.03-09.13.48:495][798]LogFbx: SortedLinks :(56) LeftLeg
+[2019.04.03-09.13.48:495][798]LogFbx: SortedLinks :(57) LeftFoot
+[2019.04.03-09.13.48:495][798]LogFbx: SortedLinks :(58) LeftToeBase
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(59) LeftToe_End
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(60) RightUpLeg
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(61) RightLeg
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(62) RightFoot
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(63) RightToeBase
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(64) RightToe_End
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(0) Hips
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(1) Spine
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(2) Spine1
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(3) Spine2
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(4) Neck
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(5) Head
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(8) LeftArm
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(10) LeftHand
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(23) LeftHandRing1
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(24) LeftHandRing2
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(25) LeftHandRing3
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(26) LeftHandRing4
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2019.04.03-09.13.48:496][798]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(31) RightShoulder
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(32) RightArm
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(33) RightForeArm
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(34) RightHand
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(35) RightHandPinky1
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(36) RightHandPinky2
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(37) RightHandPinky3
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(38) RightHandPinky4
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(39) RightHandRing1
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(40) RightHandRing2
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(41) RightHandRing3
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(42) RightHandRing4
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(47) RightHandIndex1
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(48) RightHandIndex2
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(49) RightHandIndex3
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(50) RightHandIndex4
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(51) RightHandThumb1
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(52) RightHandThumb2
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(53) RightHandThumb3
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(54) RightHandThumb4
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(55) LeftUpLeg
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(56) LeftLeg
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(57) LeftFoot
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(58) LeftToeBase
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(59) LeftToe_End
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(60) RightUpLeg
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(61) RightLeg
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(62) RightFoot
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(63) RightToeBase
+[2019.04.03-09.13.48:497][798]LogFbx: SortedLinks :(64) RightToe_End
+[2019.04.03-09.13.48:499][798]LogFbx: Parsing AnimStack Take 001
+[2019.04.03-09.13.48:499][798]LogLinker: Can't find file '/Game/anim/teleport/attack/Standing_2H_Magic_Attack_01_Anim_Take_001'
+[2019.04.03-09.13.48:499][798]LogLinker: Can't find file '/Game/anim/teleport/attack/Standing_2H_Magic_Attack_01_Anim_Take_001'
+[2019.04.03-09.13.48:904][798]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/anim/teleport/attack/Standing_2H_Magic_Attack_01_Anim_Take_001.Standing_2H_Magic_Attack_01_Anim_Take_001
+[2019.04.03-09.13.48:905][798]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_2H_Magic_Attack_01_Anim_Take_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.13.48:909][798]LogFbx: Parsing AnimStack mixamo.com
+[2019.04.03-09.13.48:916][798]LogLinker: Can't find file '/Game/anim/teleport/attack/Standing_2H_Magic_Attack_01_Anim_mixamo_com'
+[2019.04.03-09.13.48:916][798]LogLinker: Can't find file '/Game/anim/teleport/attack/Standing_2H_Magic_Attack_01_Anim_mixamo_com'
+[2019.04.03-09.13.50:164][798]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/anim/teleport/attack/Standing_2H_Magic_Attack_01_Anim_mixamo_com.Standing_2H_Magic_Attack_01_Anim_mixamo_com
+[2019.04.03-09.13.50:165][798]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_2H_Magic_Attack_01_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.13.50:177][798]LogSkeletalMesh: Building Skeletal Mesh Standing_2H_Magic_Attack_01...
+[2019.04.03-09.13.50:202][798]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/anim/teleport/attack/Standing_2H_Magic_Attack_01.Standing_2H_Magic_Attack_01
+[2019.04.03-09.13.50:235][798]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-09.13.50:248][798]LogSkeletalMesh: Building Skeletal Mesh Standing_2H_Magic_Attack_01...
+[2019.04.03-09.13.50:276][798]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/anim/teleport/attack/Standing_2H_Magic_Attack_01.Standing_2H_Magic_Attack_01
+[2019.04.03-09.13.50:446][799]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Falling Back Death.fbx)
+[2019.04.03-09.13.50:522][799]LogFbx: Loading FBX Scene from J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Falling Back Death.fbx
+[2019.04.03-09.13.50:679][799]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.03-09.13.53:425][799]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.03-09.13.53:507][799]LogFbx: =================================================
+[2019.04.03-09.13.53:507][799]LogFbx: Dumping Node START [Nightshade] 
+[2019.04.03-09.13.53:508][799]LogFbx: 	Total Deformer Count 1272427584.
+[2019.04.03-09.13.53:508][799]LogFbx: 		[Node 1] Skin Nightshade (Type Skin).
+[2019.04.03-09.13.53:508][799]LogFbx: =================================================
+[2019.04.03-09.13.53:508][799]LogFbx: 	Attribute (Nightshade) Type (4).
+[2019.04.03-09.13.53:508][799]LogFbx: 		[Node Attribute Child 1] Nightshade (Type Mesh).
+[2019.04.03-09.13.53:508][799]LogFbx: Dumping Node END [Nightshade]
+[2019.04.03-09.13.53:509][799]LogFbx: =================================================
+[2019.04.03-09.13.53:509][799]LogFbx: Dumping Node START [Nightshade] 
+[2019.04.03-09.13.53:509][799]LogFbx: 	Total Deformer Count 1272427584.
+[2019.04.03-09.13.53:509][799]LogFbx: 		[Node 1] Skin Nightshade (Type Skin).
+[2019.04.03-09.13.53:509][799]LogFbx: =================================================
+[2019.04.03-09.13.53:509][799]LogFbx: 	Attribute (Nightshade) Type (4).
+[2019.04.03-09.13.53:509][799]LogFbx: 		[Node Attribute Child 1] Nightshade (Type Mesh).
+[2019.04.03-09.13.53:509][799]LogFbx: Dumping Node END [Nightshade]
+[2019.04.03-09.13.53:512][799]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Nightshade
+[2019.04.03-09.13.53:581][799]LogLinker: Can't find file '/Game/anim/teleport/death/Nightshade_diffuse'
+[2019.04.03-09.13.53:581][799]LogLinker: Can't find file '/Game/anim/teleport/death/Nightshade_diffuse'
+[2019.04.03-09.13.56:861][799]LogLinker: Can't find file '/Game/anim/teleport/death/Nightshade_glow'
+[2019.04.03-09.13.56:861][799]LogLinker: Can't find file '/Game/anim/teleport/death/Nightshade_glow'
+[2019.04.03-09.13.57:325][799]LogLinker: Can't find file '/Game/anim/teleport/death/Nightshade_specular'
+[2019.04.03-09.13.57:326][799]LogLinker: Can't find file '/Game/anim/teleport/death/Nightshade_specular'
+[2019.04.03-09.14.00:594][799]LogLinker: Can't find file '/Game/anim/teleport/death/Nightshade_normal'
+[2019.04.03-09.14.00:595][799]LogLinker: Can't find file '/Game/anim/teleport/death/Nightshade_normal'
+[2019.04.03-09.14.01:391][799]LogFbx: Triangulating skeletal mesh Nightshade
+[2019.04.03-09.14.02:811][799]LogSkeletalMesh: Section 0: 8171 vertices, 52 active bones
+[2019.04.03-09.14.02:813][799]LogSkeletalMesh: Section 0: Material=0, 12996 triangles
+[2019.04.03-09.14.02:814][799]LogSkeletalMesh: Building Skeletal Mesh Falling_Back_Death...
+[2019.04.03-09.14.02:842][799]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/anim/teleport/death/Falling_Back_Death.Falling_Back_Death
+[2019.04.03-09.14.02:860][799]LogLinker: Can't find file '/Game/anim/teleport/death/Falling_Back_Death_Skeleton'
+[2019.04.03-09.14.02:860][799]LogLinker: Can't find file '/Game/anim/teleport/death/Falling_Back_Death_Skeleton'
+[2019.04.03-09.14.02:862][799]LogLinker: Can't find file '/Game/anim/teleport/death/Falling_Back_Death_PhysicsAsset'
+[2019.04.03-09.14.02:863][799]LogLinker: Can't find file '/Game/anim/teleport/death/Falling_Back_Death_PhysicsAsset'
+[2019.04.03-09.14.02:895][799]LogFbx: =================================================
+[2019.04.03-09.14.02:896][799]LogFbx: Dumping Node START [Nightshade] 
+[2019.04.03-09.14.02:896][799]LogFbx: 	Total Deformer Count 1874832192.
+[2019.04.03-09.14.02:896][799]LogFbx: 		[Node 1] Skin Nightshade (Type Skin).
+[2019.04.03-09.14.02:896][799]LogFbx: =================================================
+[2019.04.03-09.14.02:896][799]LogFbx: 	Attribute (Nightshade) Type (4).
+[2019.04.03-09.14.02:896][799]LogFbx: 		[Node Attribute Child 1] Nightshade (Type Mesh).
+[2019.04.03-09.14.02:896][799]LogFbx: Dumping Node END [Nightshade]
+[2019.04.03-09.14.02:898][799]LogFbx: =================================================
+[2019.04.03-09.14.02:898][799]LogFbx: Dumping Node START [Nightshade] 
+[2019.04.03-09.14.02:898][799]LogFbx: 	Total Deformer Count 1874832192.
+[2019.04.03-09.14.02:898][799]LogFbx: 		[Node 1] Skin Nightshade (Type Skin).
+[2019.04.03-09.14.02:898][799]LogFbx: =================================================
+[2019.04.03-09.14.02:898][799]LogFbx: 	Attribute (Nightshade) Type (4).
+[2019.04.03-09.14.02:898][799]LogFbx: 		[Node Attribute Child 1] Nightshade (Type Mesh).
+[2019.04.03-09.14.02:898][799]LogFbx: Dumping Node END [Nightshade]
+[2019.04.03-09.14.02:898][799]LogFbx: SortedLinks :(0) Hips
+[2019.04.03-09.14.02:898][799]LogFbx: SortedLinks :(1) Spine
+[2019.04.03-09.14.02:898][799]LogFbx: SortedLinks :(2) Spine1
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(3) Spine2
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(4) Neck
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(5) Head
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(8) LeftArm
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(10) LeftHand
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(23) LeftHandRing1
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(24) LeftHandRing2
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(25) LeftHandRing3
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(26) LeftHandRing4
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(31) RightShoulder
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(32) RightArm
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(33) RightForeArm
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(34) RightHand
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(35) RightHandPinky1
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(36) RightHandPinky2
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(37) RightHandPinky3
+[2019.04.03-09.14.02:899][799]LogFbx: SortedLinks :(38) RightHandPinky4
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(39) RightHandRing1
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(40) RightHandRing2
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(41) RightHandRing3
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(42) RightHandRing4
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(47) RightHandIndex1
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(48) RightHandIndex2
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(49) RightHandIndex3
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(50) RightHandIndex4
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(51) RightHandThumb1
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(52) RightHandThumb2
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(53) RightHandThumb3
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(54) RightHandThumb4
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(55) LeftUpLeg
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(56) LeftLeg
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(57) LeftFoot
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(58) LeftToeBase
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(59) LeftToe_End
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(60) RightUpLeg
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(61) RightLeg
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(62) RightFoot
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(63) RightToeBase
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(64) RightToe_End
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(0) Hips
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(1) Spine
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(2) Spine1
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(3) Spine2
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(4) Neck
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(5) Head
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(8) LeftArm
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(10) LeftHand
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2019.04.03-09.14.02:900][799]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(23) LeftHandRing1
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(24) LeftHandRing2
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(25) LeftHandRing3
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(26) LeftHandRing4
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(31) RightShoulder
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(32) RightArm
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(33) RightForeArm
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(34) RightHand
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(35) RightHandPinky1
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(36) RightHandPinky2
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(37) RightHandPinky3
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(38) RightHandPinky4
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(39) RightHandRing1
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(40) RightHandRing2
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(41) RightHandRing3
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(42) RightHandRing4
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(47) RightHandIndex1
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(48) RightHandIndex2
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(49) RightHandIndex3
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(50) RightHandIndex4
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(51) RightHandThumb1
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(52) RightHandThumb2
+[2019.04.03-09.14.02:901][799]LogFbx: SortedLinks :(53) RightHandThumb3
+[2019.04.03-09.14.02:902][799]LogFbx: SortedLinks :(54) RightHandThumb4
+[2019.04.03-09.14.02:902][799]LogFbx: SortedLinks :(55) LeftUpLeg
+[2019.04.03-09.14.02:902][799]LogFbx: SortedLinks :(56) LeftLeg
+[2019.04.03-09.14.02:902][799]LogFbx: SortedLinks :(57) LeftFoot
+[2019.04.03-09.14.02:902][799]LogFbx: SortedLinks :(58) LeftToeBase
+[2019.04.03-09.14.02:902][799]LogFbx: SortedLinks :(59) LeftToe_End
+[2019.04.03-09.14.02:902][799]LogFbx: SortedLinks :(60) RightUpLeg
+[2019.04.03-09.14.02:902][799]LogFbx: SortedLinks :(61) RightLeg
+[2019.04.03-09.14.02:902][799]LogFbx: SortedLinks :(62) RightFoot
+[2019.04.03-09.14.02:902][799]LogFbx: SortedLinks :(63) RightToeBase
+[2019.04.03-09.14.02:902][799]LogFbx: SortedLinks :(64) RightToe_End
+[2019.04.03-09.14.02:904][799]LogFbx: Parsing AnimStack Take 001
+[2019.04.03-09.14.02:904][799]LogLinker: Can't find file '/Game/anim/teleport/death/Falling_Back_Death_Anim_Take_001'
+[2019.04.03-09.14.02:905][799]LogLinker: Can't find file '/Game/anim/teleport/death/Falling_Back_Death_Anim_Take_001'
+[2019.04.03-09.14.03:950][799]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/anim/teleport/death/Falling_Back_Death_Anim_Take_001.Falling_Back_Death_Anim_Take_001
+[2019.04.03-09.14.03:951][799]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Falling_Back_Death_Anim_Take_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.14.03:961][799]LogFbx: Parsing AnimStack mixamo.com
+[2019.04.03-09.14.03:967][799]LogLinker: Can't find file '/Game/anim/teleport/death/Falling_Back_Death_Anim_mixamo_com'
+[2019.04.03-09.14.03:968][799]LogLinker: Can't find file '/Game/anim/teleport/death/Falling_Back_Death_Anim_mixamo_com'
+[2019.04.03-09.14.07:943][799]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/anim/teleport/death/Falling_Back_Death_Anim_mixamo_com.Falling_Back_Death_Anim_mixamo_com
+[2019.04.03-09.14.07:945][799]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Falling_Back_Death_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.14.07:973][799]LogSkeletalMesh: Building Skeletal Mesh Falling_Back_Death...
+[2019.04.03-09.14.07:995][799]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/anim/teleport/death/Falling_Back_Death.Falling_Back_Death
+[2019.04.03-09.14.08:024][799]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-09.14.08:026][799]LogSkeletalMesh: Building Skeletal Mesh Falling_Back_Death...
+[2019.04.03-09.14.08:053][799]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/anim/teleport/death/Falling_Back_Death.Falling_Back_Death
+[2019.04.03-09.14.08:166][800]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Jumping.fbx)
+[2019.04.03-09.14.08:241][800]LogFbx: Loading FBX Scene from J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Jumping.fbx
+[2019.04.03-09.14.08:419][800]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.03-09.14.13:478][800]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.03-09.14.13:529][800]LogFbx: =================================================
+[2019.04.03-09.14.13:529][800]LogFbx: Dumping Node START [Nightshade] 
+[2019.04.03-09.14.13:529][800]LogFbx: 	Total Deformer Count 339629632.
+[2019.04.03-09.14.13:529][800]LogFbx: 		[Node 1] Skin Nightshade (Type Skin).
+[2019.04.03-09.14.13:529][800]LogFbx: =================================================
+[2019.04.03-09.14.13:529][800]LogFbx: 	Attribute (Nightshade) Type (4).
+[2019.04.03-09.14.13:529][800]LogFbx: 		[Node Attribute Child 1] Nightshade (Type Mesh).
+[2019.04.03-09.14.13:529][800]LogFbx: Dumping Node END [Nightshade]
+[2019.04.03-09.14.13:531][800]LogFbx: =================================================
+[2019.04.03-09.14.13:531][800]LogFbx: Dumping Node START [Nightshade] 
+[2019.04.03-09.14.13:531][800]LogFbx: 	Total Deformer Count 339629632.
+[2019.04.03-09.14.13:531][800]LogFbx: 		[Node 1] Skin Nightshade (Type Skin).
+[2019.04.03-09.14.13:531][800]LogFbx: =================================================
+[2019.04.03-09.14.13:531][800]LogFbx: 	Attribute (Nightshade) Type (4).
+[2019.04.03-09.14.13:531][800]LogFbx: 		[Node Attribute Child 1] Nightshade (Type Mesh).
+[2019.04.03-09.14.13:531][800]LogFbx: Dumping Node END [Nightshade]
+[2019.04.03-09.14.13:534][800]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Nightshade
+[2019.04.03-09.14.13:596][800]LogLinker: Can't find file '/Game/anim/teleport/jump/Nightshade_diffuse'
+[2019.04.03-09.14.13:596][800]LogLinker: Can't find file '/Game/anim/teleport/jump/Nightshade_diffuse'
+[2019.04.03-09.14.16:904][800]LogLinker: Can't find file '/Game/anim/teleport/jump/Nightshade_glow'
+[2019.04.03-09.14.16:904][800]LogLinker: Can't find file '/Game/anim/teleport/jump/Nightshade_glow'
+[2019.04.03-09.14.17:320][800]LogLinker: Can't find file '/Game/anim/teleport/jump/Nightshade_specular'
+[2019.04.03-09.14.17:321][800]LogLinker: Can't find file '/Game/anim/teleport/jump/Nightshade_specular'
+[2019.04.03-09.14.20:552][800]LogLinker: Can't find file '/Game/anim/teleport/jump/Nightshade_normal'
+[2019.04.03-09.14.20:553][800]LogLinker: Can't find file '/Game/anim/teleport/jump/Nightshade_normal'
+[2019.04.03-09.14.21:282][800]LogFbx: Triangulating skeletal mesh Nightshade
+[2019.04.03-09.14.22:718][800]LogSkeletalMesh: Section 0: 8171 vertices, 52 active bones
+[2019.04.03-09.14.22:721][800]LogSkeletalMesh: Section 0: Material=0, 12996 triangles
+[2019.04.03-09.14.22:723][800]LogSkeletalMesh: Building Skeletal Mesh Jumping...
+[2019.04.03-09.14.22:753][800]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/anim/teleport/jump/Jumping.Jumping
+[2019.04.03-09.14.22:771][800]LogLinker: Can't find file '/Game/anim/teleport/jump/Jumping_Skeleton'
+[2019.04.03-09.14.22:771][800]LogLinker: Can't find file '/Game/anim/teleport/jump/Jumping_Skeleton'
+[2019.04.03-09.14.22:773][800]LogLinker: Can't find file '/Game/anim/teleport/jump/Jumping_PhysicsAsset'
+[2019.04.03-09.14.22:774][800]LogLinker: Can't find file '/Game/anim/teleport/jump/Jumping_PhysicsAsset'
+[2019.04.03-09.14.22:806][800]LogFbx: =================================================
+[2019.04.03-09.14.22:806][800]LogFbx: Dumping Node START [Nightshade] 
+[2019.04.03-09.14.22:806][800]LogFbx: 	Total Deformer Count 1272426816.
+[2019.04.03-09.14.22:807][800]LogFbx: 		[Node 1] Skin Nightshade (Type Skin).
+[2019.04.03-09.14.22:807][800]LogFbx: =================================================
+[2019.04.03-09.14.22:807][800]LogFbx: 	Attribute (Nightshade) Type (4).
+[2019.04.03-09.14.22:807][800]LogFbx: 		[Node Attribute Child 1] Nightshade (Type Mesh).
+[2019.04.03-09.14.22:807][800]LogFbx: Dumping Node END [Nightshade]
+[2019.04.03-09.14.22:809][800]LogFbx: =================================================
+[2019.04.03-09.14.22:809][800]LogFbx: Dumping Node START [Nightshade] 
+[2019.04.03-09.14.22:809][800]LogFbx: 	Total Deformer Count 1272426816.
+[2019.04.03-09.14.22:809][800]LogFbx: 		[Node 1] Skin Nightshade (Type Skin).
+[2019.04.03-09.14.22:809][800]LogFbx: =================================================
+[2019.04.03-09.14.22:809][800]LogFbx: 	Attribute (Nightshade) Type (4).
+[2019.04.03-09.14.22:809][800]LogFbx: 		[Node Attribute Child 1] Nightshade (Type Mesh).
+[2019.04.03-09.14.22:809][800]LogFbx: Dumping Node END [Nightshade]
+[2019.04.03-09.14.22:809][800]LogFbx: SortedLinks :(0) Hips
+[2019.04.03-09.14.22:809][800]LogFbx: SortedLinks :(1) Spine
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(2) Spine1
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(3) Spine2
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(4) Neck
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(5) Head
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(8) LeftArm
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(10) LeftHand
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(23) LeftHandRing1
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(24) LeftHandRing2
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(25) LeftHandRing3
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(26) LeftHandRing4
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(31) RightShoulder
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(32) RightArm
+[2019.04.03-09.14.22:810][800]LogFbx: SortedLinks :(33) RightForeArm
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(34) RightHand
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(35) RightHandPinky1
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(36) RightHandPinky2
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(37) RightHandPinky3
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(38) RightHandPinky4
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(39) RightHandRing1
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(40) RightHandRing2
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(41) RightHandRing3
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(42) RightHandRing4
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(47) RightHandIndex1
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(48) RightHandIndex2
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(49) RightHandIndex3
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(50) RightHandIndex4
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(51) RightHandThumb1
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(52) RightHandThumb2
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(53) RightHandThumb3
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(54) RightHandThumb4
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(55) LeftUpLeg
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(56) LeftLeg
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(57) LeftFoot
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(58) LeftToeBase
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(59) LeftToe_End
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(60) RightUpLeg
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(61) RightLeg
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(62) RightFoot
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(63) RightToeBase
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(64) RightToe_End
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(0) Hips
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(1) Spine
+[2019.04.03-09.14.22:811][800]LogFbx: SortedLinks :(2) Spine1
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(3) Spine2
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(4) Neck
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(5) Head
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(8) LeftArm
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(10) LeftHand
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(23) LeftHandRing1
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(24) LeftHandRing2
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(25) LeftHandRing3
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(26) LeftHandRing4
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(31) RightShoulder
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(32) RightArm
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(33) RightForeArm
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(34) RightHand
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(35) RightHandPinky1
+[2019.04.03-09.14.22:812][800]LogFbx: SortedLinks :(36) RightHandPinky2
+[2019.04.03-09.14.22:813][800]LogFbx: SortedLinks :(37) RightHandPinky3
+[2019.04.03-09.14.22:813][800]LogFbx: SortedLinks :(38) RightHandPinky4
+[2019.04.03-09.14.22:813][800]LogFbx: SortedLinks :(39) RightHandRing1
+[2019.04.03-09.14.22:813][800]LogFbx: SortedLinks :(40) RightHandRing2
+[2019.04.03-09.14.22:813][800]LogFbx: SortedLinks :(41) RightHandRing3
+[2019.04.03-09.14.22:813][800]LogFbx: SortedLinks :(42) RightHandRing4
+[2019.04.03-09.14.22:813][800]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2019.04.03-09.14.22:813][800]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2019.04.03-09.14.22:813][800]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2019.04.03-09.14.22:813][800]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2019.04.03-09.14.22:813][800]LogFbx: SortedLinks :(47) RightHandIndex1
+[2019.04.03-09.14.22:813][800]LogFbx: SortedLinks :(48) RightHandIndex2
+[2019.04.03-09.14.22:813][800]LogFbx: SortedLinks :(49) RightHandIndex3
+[2019.04.03-09.14.22:813][800]LogFbx: SortedLinks :(50) RightHandIndex4
+[2019.04.03-09.14.22:813][800]LogFbx: SortedLinks :(51) RightHandThumb1
+[2019.04.03-09.14.22:813][800]LogFbx: SortedLinks :(52) RightHandThumb2
+[2019.04.03-09.14.22:813][800]LogFbx: SortedLinks :(53) RightHandThumb3
+[2019.04.03-09.14.22:813][800]LogFbx: SortedLinks :(54) RightHandThumb4
+[2019.04.03-09.14.22:813][800]LogFbx: SortedLinks :(55) LeftUpLeg
+[2019.04.03-09.14.22:813][800]LogFbx: SortedLinks :(56) LeftLeg
+[2019.04.03-09.14.22:813][800]LogFbx: SortedLinks :(57) LeftFoot
+[2019.04.03-09.14.22:813][800]LogFbx: SortedLinks :(58) LeftToeBase
+[2019.04.03-09.14.22:813][800]LogFbx: SortedLinks :(59) LeftToe_End
+[2019.04.03-09.14.22:813][800]LogFbx: SortedLinks :(60) RightUpLeg
+[2019.04.03-09.14.22:813][800]LogFbx: SortedLinks :(61) RightLeg
+[2019.04.03-09.14.22:813][800]LogFbx: SortedLinks :(62) RightFoot
+[2019.04.03-09.14.22:813][800]LogFbx: SortedLinks :(63) RightToeBase
+[2019.04.03-09.14.22:813][800]LogFbx: SortedLinks :(64) RightToe_End
+[2019.04.03-09.14.22:815][800]LogFbx: Parsing AnimStack Take 001
+[2019.04.03-09.14.22:816][800]LogLinker: Can't find file '/Game/anim/teleport/jump/Jumping_Anim_Take_001'
+[2019.04.03-09.14.22:816][800]LogLinker: Can't find file '/Game/anim/teleport/jump/Jumping_Anim_Take_001'
+[2019.04.03-09.14.22:957][800]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/anim/teleport/jump/Jumping_Anim_Take_001.Jumping_Anim_Take_001
+[2019.04.03-09.14.22:958][800]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jumping_Anim_Take_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.14.22:961][800]LogFbx: Parsing AnimStack mixamo.com
+[2019.04.03-09.14.22:966][800]LogLinker: Can't find file '/Game/anim/teleport/jump/Jumping_Anim_mixamo_com'
+[2019.04.03-09.14.22:966][800]LogLinker: Can't find file '/Game/anim/teleport/jump/Jumping_Anim_mixamo_com'
+[2019.04.03-09.14.23:671][800]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/anim/teleport/jump/Jumping_Anim_mixamo_com.Jumping_Anim_mixamo_com
+[2019.04.03-09.14.23:672][800]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jumping_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.14.23:678][800]LogSkeletalMesh: Building Skeletal Mesh Jumping...
+[2019.04.03-09.14.23:702][800]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/anim/teleport/jump/Jumping.Jumping
+[2019.04.03-09.14.23:728][800]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-09.14.23:730][800]LogSkeletalMesh: Building Skeletal Mesh Jumping...
+[2019.04.03-09.14.23:757][800]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/anim/teleport/jump/Jumping.Jumping
+[2019.04.03-09.14.24:289][801]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Standing_2H_Magic_Attack_01F27940EA4253BB6D48A779961A5954CE.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Standing_2H_Magic_Attack_01.uasset'
+[2019.04.03-09.14.24:341][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/teleport/death/Falling_Back_Death" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Falling_Back_Death.uasset" SILENT=true
+[2019.04.03-09.14.24:410][801]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.04.03-09.14.24:410][801]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Falling_Back_DeathD286C6FF4765DA31B459B7A8402A3D76.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Falling_Back_Death.uasset'
+[2019.04.03-09.14.24:465][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/teleport/jump/Jumping" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Jumping.uasset" SILENT=true
+[2019.04.03-09.14.24:511][801]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Jumping1326F10944FA11CD029AFA94DF7BB8E6.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Jumping.uasset'
+[2019.04.03-09.14.26:918][  4]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.03-09.14.27:530][ 60]AssetReimport: Importing new asset /Game/anim/teleport/attack/Standing_2H_Magic_Attack_01.
+[2019.04.03-09.14.27:530][ 60]AssetReimport: Importing new asset /Game/anim/teleport/death/Falling_Back_Death.
+[2019.04.03-09.14.27:530][ 60]AssetReimport: Importing new asset /Game/anim/teleport/jump/Jumping.
+[2019.04.03-09.14.27:802][ 78]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.03-09.14.29:795][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-09.14.29:930][255]AssetReimport: New page: Outstanding source content changes 1:14:29 AM
+[2019.04.03-09.14.29:979][255]LogEditorFactories: Performing atomic reimport of [J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Jumping.fbm/Nightshade_glow.png]
+[2019.04.03-09.14.29:980][255]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Jumping.fbm/Nightshade_glow.png)
+[2019.04.03-09.14.30:513][255]LogEditorFactories: -- imported successfully
+[2019.04.03-09.14.30:553][256]LogEditorFactories: Performing atomic reimport of [J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Jumping.fbm/Nightshade_diffuse.png]
+[2019.04.03-09.14.30:571][256]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Jumping.fbm/Nightshade_diffuse.png)
+[2019.04.03-09.14.33:741][256]LogEditorFactories: -- imported successfully
+[2019.04.03-09.14.33:778][257]LogEditorFactories: Performing atomic reimport of [J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Jumping.fbm/Nightshade_normal.png]
+[2019.04.03-09.14.33:790][257]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Jumping.fbm/Nightshade_normal.png)
+[2019.04.03-09.14.34:416][257]LogEditorFactories: -- imported successfully
+[2019.04.03-09.14.34:447][258]LogEditorFactories: Performing atomic reimport of [J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Jumping.fbm/Nightshade_specular.png]
+[2019.04.03-09.14.34:464][258]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Jumping.fbm/Nightshade_specular.png)
+[2019.04.03-09.14.37:492][258]LogEditorFactories: -- imported successfully
+[2019.04.03-09.14.37:529][259]LogEditorFactories: Performing atomic reimport of [J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Falling Back Death.fbm/Nightshade_glow.png]
+[2019.04.03-09.14.37:531][259]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Falling Back Death.fbm/Nightshade_glow.png)
+[2019.04.03-09.14.37:855][259]LogEditorFactories: -- imported successfully
+[2019.04.03-09.14.37:866][260]LogEditorFactories: Performing atomic reimport of [J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Falling Back Death.fbm/Nightshade_diffuse.png]
+[2019.04.03-09.14.37:883][260]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Falling Back Death.fbm/Nightshade_diffuse.png)
+[2019.04.03-09.14.40:851][260]LogEditorFactories: -- imported successfully
+[2019.04.03-09.14.40:876][261]LogEditorFactories: Performing atomic reimport of [J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Falling Back Death.fbm/Nightshade_normal.png]
+[2019.04.03-09.14.40:887][261]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Falling Back Death.fbm/Nightshade_normal.png)
+[2019.04.03-09.14.41:436][261]LogEditorFactories: -- imported successfully
+[2019.04.03-09.14.41:456][262]LogEditorFactories: Performing atomic reimport of [J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Falling Back Death.fbm/Nightshade_specular.png]
+[2019.04.03-09.14.41:472][262]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Falling Back Death.fbm/Nightshade_specular.png)
+[2019.04.03-09.14.44:376][262]LogEditorFactories: -- imported successfully
+[2019.04.03-09.14.44:401][263]LogEditorFactories: Performing atomic reimport of [J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Standing 2H Magic Attack 01.fbm/Nightshade_glow.png]
+[2019.04.03-09.14.44:402][263]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Standing 2H Magic Attack 01.fbm/Nightshade_glow.png)
+[2019.04.03-09.14.44:731][263]LogEditorFactories: -- imported successfully
+[2019.04.03-09.14.44:742][264]LogEditorFactories: Performing atomic reimport of [J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Standing 2H Magic Attack 01.fbm/Nightshade_diffuse.png]
+[2019.04.03-09.14.44:759][264]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Standing 2H Magic Attack 01.fbm/Nightshade_diffuse.png)
+[2019.04.03-09.14.47:760][264]LogEditorFactories: -- imported successfully
+[2019.04.03-09.14.47:787][265]LogEditorFactories: Performing atomic reimport of [J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Standing 2H Magic Attack 01.fbm/Nightshade_normal.png]
+[2019.04.03-09.14.47:798][265]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Standing 2H Magic Attack 01.fbm/Nightshade_normal.png)
+[2019.04.03-09.14.48:345][265]LogEditorFactories: -- imported successfully
+[2019.04.03-09.14.48:366][266]LogEditorFactories: Performing atomic reimport of [J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Standing 2H Magic Attack 01.fbm/Nightshade_specular.png]
+[2019.04.03-09.14.48:382][266]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Standing 2H Magic Attack 01.fbm/Nightshade_specular.png)
+[2019.04.03-09.14.51:321][266]LogEditorFactories: -- imported successfully
+[2019.04.03-09.14.54:354][612]AssetReimport: Reimported asset Nightshade_glow from J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Jumping.fbm/Nightshade_glow.png.
+[2019.04.03-09.14.54:354][612]AssetReimport: Reimported asset Nightshade_diffuse from J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Jumping.fbm/Nightshade_diffuse.png.
+[2019.04.03-09.14.54:354][612]AssetReimport: Reimported asset Nightshade_normal from J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Jumping.fbm/Nightshade_normal.png.
+[2019.04.03-09.14.54:354][612]AssetReimport: Reimported asset Nightshade_specular from J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Jumping.fbm/Nightshade_specular.png.
+[2019.04.03-09.14.54:354][612]AssetReimport: Reimported asset Nightshade_glow from J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Falling Back Death.fbm/Nightshade_glow.png.
+[2019.04.03-09.14.54:354][612]AssetReimport: Reimported asset Nightshade_diffuse from J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Falling Back Death.fbm/Nightshade_diffuse.png.
+[2019.04.03-09.14.54:354][612]AssetReimport: Reimported asset Nightshade_normal from J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Falling Back Death.fbm/Nightshade_normal.png.
+[2019.04.03-09.14.54:354][612]AssetReimport: Reimported asset Nightshade_specular from J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Falling Back Death.fbm/Nightshade_specular.png.
+[2019.04.03-09.14.54:354][612]AssetReimport: Reimported asset Nightshade_glow from J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Standing 2H Magic Attack 01.fbm/Nightshade_glow.png.
+[2019.04.03-09.14.54:354][612]AssetReimport: Reimported asset Nightshade_diffuse from J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Standing 2H Magic Attack 01.fbm/Nightshade_diffuse.png.
+[2019.04.03-09.14.54:354][612]AssetReimport: Reimported asset Nightshade_normal from J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Standing 2H Magic Attack 01.fbm/Nightshade_normal.png.
+[2019.04.03-09.14.54:354][612]AssetReimport: Reimported asset Nightshade_specular from J:/Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Standing 2H Magic Attack 01.fbm/Nightshade_specular.png.
+[2019.04.03-09.14.56:855][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-09.14.56:938][921]LogSlate: Window 'Message Log' being destroyed
+[2019.04.03-09.14.56:944][921]LogSlate: Window 'Message Log' being destroyed
+[2019.04.03-09.14.59:641][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-09.15.11:203][516]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Standing_2H_Magic_Attack_01_Skel11706B9E4EE1D101C69B6F8580D6A98B.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Standing_2H_Magic_Attack_01_Skeleton.uasset'
+[2019.04.03-09.15.11:222][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/teleport/attack/Nightshade_diffuse" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Nightshade_diffuse.uasset" SILENT=true
+[2019.04.03-09.15.11:932][516]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Nightshade_diffuseCB2F7841444DA56AA842E78D4F72E48F.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Nightshade_diffuse.uasset'
+[2019.04.03-09.15.11:946][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/teleport/attack/Nightshade_glow" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Nightshade_glow.uasset" SILENT=true
+[2019.04.03-09.15.12:169][516]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Nightshade_glow9308B9E8467105D3922A5FAA6CB87AAA.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Nightshade_glow.uasset'
+[2019.04.03-09.15.12:225][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/teleport/attack/Nightshade_MAT" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Nightshade_MAT.uasset" SILENT=true
+[2019.04.03-09.15.12:268][516]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Nightshade_MATC6E796794C9BFB5CDD3D75A6A3F353FF.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Nightshade_MAT.uasset'
+[2019.04.03-09.15.12:285][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/teleport/attack/Nightshade_normal" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Nightshade_normal.uasset" SILENT=true
+[2019.04.03-09.15.12:829][516]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Nightshade_normal508FC1E641FCD6669F95D0BB17D73E7B.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Nightshade_normal.uasset'
+[2019.04.03-09.15.12:845][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/teleport/attack/Nightshade_specular" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Nightshade_specular.uasset" SILENT=true
+[2019.04.03-09.15.13:552][516]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Nightshade_specularA54B294F4C290C468267758DF8C9EF91.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Nightshade_specular.uasset'
+[2019.04.03-09.15.13:811][516]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Standing_2H_Magic_Attack_01B537C5EB40F51C2795B3098481814537.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Standing_2H_Magic_Attack_01.uasset'
+[2019.04.03-09.15.13:852][516]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Standing_2H_Magic_Attack_01_Anim3A1EFD224F19F7D97875108BA7515879.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Standing_2H_Magic_Attack_01_Anim_mixamo_com.uasset'
+[2019.04.03-09.15.13:892][516]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Standing_2H_Magic_Attack_01_AnimD3FC23BA4D552373D33958975B596D4F.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Standing_2H_Magic_Attack_01_Anim_Take_001.uasset'
+[2019.04.03-09.15.13:938][516]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Standing_2H_Magic_Attack_01_PhysEFDF3BA04BF531281BD13988C98CE224.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Standing_2H_Magic_Attack_01_PhysicsAsset.uasset'
+[2019.04.03-09.15.24:347][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/teleport/death/Nightshade_specular" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Nightshade_specular.uasset" SILENT=true
+[2019.04.03-09.15.25:084][677]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Nightshade_specular976A80FE4C64C13E3A37A698C0C3F467.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Nightshade_specular.uasset'
+[2019.04.03-09.15.25:129][677]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Falling_Back_Death_Anim_mixamo_cB4B659C0430D76FADC865689FB3F9A47.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Falling_Back_Death_Anim_mixamo_com.uasset'
+[2019.04.03-09.15.25:165][677]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Falling_Back_Death_Anim_Take_001300E35094AEA22683B88D3AF7B53D4CE.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Falling_Back_Death_Anim_Take_001.uasset'
+[2019.04.03-09.15.25:208][677]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Falling_Back_Death_PhysicsAsset3131C7604C622465BAF59ABFBB00D0B4.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Falling_Back_Death_PhysicsAsset.uasset'
+[2019.04.03-09.15.25:218][677]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Falling_Back_Death_Skeleton09DF3C464BDDB3EDBF518FB844405E06.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Falling_Back_Death_Skeleton.uasset'
+[2019.04.03-09.15.25:236][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/teleport/death/Nightshade_diffuse" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Nightshade_diffuse.uasset" SILENT=true
+[2019.04.03-09.15.25:924][677]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Nightshade_diffuse658E274A4C13F19591C5868140A76184.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Nightshade_diffuse.uasset'
+[2019.04.03-09.15.25:936][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/teleport/death/Nightshade_glow" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Nightshade_glow.uasset" SILENT=true
+[2019.04.03-09.15.26:159][677]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Nightshade_glow3A97EE5F45C0E55D813E05AD92377238.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Nightshade_glow.uasset'
+[2019.04.03-09.15.26:181][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/teleport/death/Nightshade_MAT" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Nightshade_MAT.uasset" SILENT=true
+[2019.04.03-09.15.26:197][677]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Nightshade_MATA82A0B3849201BD24DD6A6B7662BB3D3.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Nightshade_MAT.uasset'
+[2019.04.03-09.15.26:216][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/teleport/death/Nightshade_normal" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Nightshade_normal.uasset" SILENT=true
+[2019.04.03-09.15.26:750][677]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Nightshade_normalCC24F6C0429D4D8A60DFD08CD6FA62E6.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Nightshade_normal.uasset'
+[2019.04.03-09.15.32:963][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/teleport/jump/Nightshade_specular" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Nightshade_specular.uasset" SILENT=true
+[2019.04.03-09.15.33:707][355]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Nightshade_specularAC6FBF3E445461F43F58E19080CF2CDD.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Nightshade_specular.uasset'
+[2019.04.03-09.15.33:747][355]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Jumping_Anim_mixamo_com64858B1C48CADEAB23E593BE3722A813.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Jumping_Anim_mixamo_com.uasset'
+[2019.04.03-09.15.33:769][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/teleport/jump/Jumping_Anim_Take_001" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Jumping_Anim_Take_001.uasset" SILENT=true
+[2019.04.03-09.15.33:784][355]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Jumping_Anim_Take_001C103BE0743DF5BA50C9705A7ACB14B9A.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Jumping_Anim_Take_001.uasset'
+[2019.04.03-09.15.33:806][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/teleport/jump/Jumping_PhysicsAsset" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Jumping_PhysicsAsset.uasset" SILENT=true
+[2019.04.03-09.15.33:828][355]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Jumping_PhysicsAssetC1797C494CA818A071AEE9B59786500B.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Jumping_PhysicsAsset.uasset'
+[2019.04.03-09.15.33:834][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/teleport/jump/Jumping_Skeleton" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Jumping_Skeleton.uasset" SILENT=true
+[2019.04.03-09.15.33:838][355]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Jumping_Skeleton3C065DA649507DA42A21A99ED8E3900E.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Jumping_Skeleton.uasset'
+[2019.04.03-09.15.33:854][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/teleport/jump/Nightshade_diffuse" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Nightshade_diffuse.uasset" SILENT=true
+[2019.04.03-09.15.34:559][355]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Nightshade_diffuse405276FB4210A03C36BB29848CF26E2C.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Nightshade_diffuse.uasset'
+[2019.04.03-09.15.34:571][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/teleport/jump/Nightshade_glow" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Nightshade_glow.uasset" SILENT=true
+[2019.04.03-09.15.34:791][355]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Nightshade_glow75D00FC244826BB8907988B6EBB89EA2.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Nightshade_glow.uasset'
+[2019.04.03-09.15.34:813][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/teleport/jump/Nightshade_MAT" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Nightshade_MAT.uasset" SILENT=true
+[2019.04.03-09.15.34:830][355]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Nightshade_MAT39C92C1B43A4CD4106C688A8F4C60133.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Nightshade_MAT.uasset'
+[2019.04.03-09.15.34:847][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/teleport/jump/Nightshade_normal" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Nightshade_normal.uasset" SILENT=true
+[2019.04.03-09.15.35:393][355]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Nightshade_normal8A62106540883589F2C968BC1A78050B.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Nightshade_normal.uasset'
+[2019.04.03-09.15.49:269][955]LogMetaData: Removing '/Game/anim/teleport/attack/Teleport_Skeleton.Teleport_Skeleton' ref from Metadata '/Game/anim/teleport/attack/Standing_2H_Magic_Attack_01_Skeleton.PackageMetaData'
+[2019.04.03-09.15.49:300][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/teleport/attack/Teleport_Skeleton" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Teleport_Skeleton.uasset" SILENT=true
+[2019.04.03-09.15.49:304][955]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Teleport_Skeleton01E21B8A4D135F3872F4C58BAB4C5A82.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Teleport_Skeleton.uasset'
+[2019.04.03-09.15.49:759][955]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Standing_2H_Magic_Attack_01A196971C47B81870E381BCA8F7536DC7.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Standing_2H_Magic_Attack_01.uasset'
+[2019.04.03-09.15.49:811][955]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Standing_2H_Magic_Attack_01_Anim0240D24544A0D111A31AE1916BD2E338.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Standing_2H_Magic_Attack_01_Anim_mixamo_com.uasset'
+[2019.04.03-09.15.49:844][955]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Standing_2H_Magic_Attack_01_Anim23AB688149030129A2F2B795D6A6F8C1.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Standing_2H_Magic_Attack_01_Anim_Take_001.uasset'
+[2019.04.03-09.16.00:071][ 48]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.04.03-09.16.03:878][467]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/anim/teleport/death/Falling_Back_Death_Anim_mixamo_com.Falling_Back_Death_Anim_mixamo_com
+[2019.04.03-09.16.03:880][467]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Falling_Back_Death_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.16.03:911][467]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/anim/teleport/death/Falling_Back_Death_Anim_mixamo_com.Falling_Back_Death_Anim_mixamo_com
+[2019.04.03-09.16.03:915][467]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Falling_Back_Death_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.16.03:945][467]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/anim/teleport/death/Falling_Back_Death_Anim_Take_001.Falling_Back_Death_Anim_Take_001
+[2019.04.03-09.16.03:947][467]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Falling_Back_Death_Anim_Take_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.16.03:960][467]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/anim/teleport/death/Falling_Back_Death_Anim_Take_001.Falling_Back_Death_Anim_Take_001
+[2019.04.03-09.16.03:961][467]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Falling_Back_Death_Anim_Take_001) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.16.04:068][467]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Falling_Back_Death_Anim_mixamo_c960BA7B34978D54E3CA886BC6B96A830.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Falling_Back_Death_Anim_mixamo_com.uasset'
+[2019.04.03-09.16.04:139][467]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Falling_Back_Death_Anim_Take_00191577A8C41FE026714D1A98D12F438AA.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/death/Falling_Back_Death_Anim_Take_001.uasset'
+[2019.04.03-09.16.04:149][467]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.04.03-09.16.12:864][147]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.03-09.16.13:753][147]LogMaterial: Display: Missing cached shader map for material Nightshade_MAT, compiling. 
+[2019.04.03-09.16.13:753][147]LogMaterial: Warning: J:\Documents\Unreal Projects\CAP4053\Content\anim\teleport\death\Nightshade_MAT.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.03-09.16.13:754][147]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.04.03-09.16.13:757][147]LogMaterial: Display: Missing cached shader map for material Nightshade_MAT, compiling. 
+[2019.04.03-09.16.13:757][147]LogMaterial: Warning: J:\Documents\Unreal Projects\CAP4053\Content\anim\teleport\death\Nightshade_MAT.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.03-09.16.13:757][147]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.04.03-09.16.13:760][147]LogMaterial: Display: Missing cached shader map for material Nightshade_MAT, compiling. 
+[2019.04.03-09.16.13:760][147]LogMaterial: Warning: J:\Documents\Unreal Projects\CAP4053\Content\anim\teleport\death\Nightshade_MAT.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.03-09.16.13:760][147]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.04.03-09.16.13:763][147]LogMaterial: Display: Missing cached shader map for material Nightshade_MAT, compiling. 
+[2019.04.03-09.16.13:764][147]LogMaterial: Warning: J:\Documents\Unreal Projects\CAP4053\Content\anim\teleport\death\Nightshade_MAT.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.03-09.16.13:764][147]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.04.03-09.16.13:765][147]LogSkeletalMesh: Building Skeletal Mesh Falling_Back_Death...
+[2019.04.03-09.16.13:787][147]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/anim/teleport/death/Falling_Back_Death.Falling_Back_Death
+[2019.04.03-09.16.13:803][147]LogSkeletalMesh: Building Skeletal Mesh Falling_Back_Death...
+[2019.04.03-09.16.13:823][147]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/anim/teleport/death/Falling_Back_Death.Falling_Back_Death
+[2019.04.03-09.16.13:842][147]LogSkeletalMesh: Building Skeletal Mesh Falling_Back_Death...
+[2019.04.03-09.16.13:861][147]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/anim/teleport/death/Falling_Back_Death.Falling_Back_Death
+[2019.04.03-09.16.27:636][487]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.04.03-09.16.30:329][787]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/anim/teleport/jump/Jumping_Anim_mixamo_com.Jumping_Anim_mixamo_com
+[2019.04.03-09.16.30:330][787]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jumping_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.16.30:336][787]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/anim/teleport/jump/Jumping_Anim_mixamo_com.Jumping_Anim_mixamo_com
+[2019.04.03-09.16.30:337][787]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jumping_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.16.30:343][787]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/anim/teleport/jump/Jumping_Anim_Take_001.Jumping_Anim_Take_001
+[2019.04.03-09.16.30:343][787]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jumping_Anim_Take_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.16.30:345][787]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/anim/teleport/jump/Jumping_Anim_Take_001.Jumping_Anim_Take_001
+[2019.04.03-09.16.30:346][787]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jumping_Anim_Take_001) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.16.30:431][787]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Jumping_Anim_mixamo_com82D1C368479FF1F0663205BB0AEFD258.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Jumping_Anim_mixamo_com.uasset'
+[2019.04.03-09.16.30:456][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/teleport/jump/Jumping_Anim_Take_001" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Jumping_Anim_Take_001.uasset" SILENT=true
+[2019.04.03-09.16.30:505][787]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Jumping_Anim_Take_001849BCE4D472C1E90F531828DD89992CE.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/jump/Jumping_Anim_Take_001.uasset'
+[2019.04.03-09.16.30:514][787]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.04.03-09.16.39:337][466]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.03-09.16.39:560][466]LogMaterial: Display: Missing cached shader map for material Nightshade_MAT, compiling. 
+[2019.04.03-09.16.39:561][466]LogMaterial: Warning: J:\Documents\Unreal Projects\CAP4053\Content\anim\teleport\jump\Nightshade_MAT.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.03-09.16.39:561][466]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.04.03-09.16.39:564][466]LogMaterial: Display: Missing cached shader map for material Nightshade_MAT, compiling. 
+[2019.04.03-09.16.39:564][466]LogMaterial: Warning: J:\Documents\Unreal Projects\CAP4053\Content\anim\teleport\jump\Nightshade_MAT.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.03-09.16.39:564][466]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.04.03-09.16.39:567][466]LogMaterial: Display: Missing cached shader map for material Nightshade_MAT, compiling. 
+[2019.04.03-09.16.39:568][466]LogMaterial: Warning: J:\Documents\Unreal Projects\CAP4053\Content\anim\teleport\jump\Nightshade_MAT.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.03-09.16.39:568][466]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.04.03-09.16.39:571][466]LogMaterial: Display: Missing cached shader map for material Nightshade_MAT, compiling. 
+[2019.04.03-09.16.39:571][466]LogMaterial: Warning: J:\Documents\Unreal Projects\CAP4053\Content\anim\teleport\jump\Nightshade_MAT.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.03-09.16.39:572][466]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.04.03-09.16.39:578][466]LogSkeletalMesh: Building Skeletal Mesh Jumping...
+[2019.04.03-09.16.39:599][466]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/anim/teleport/jump/Jumping.Jumping
+[2019.04.03-09.16.39:607][466]LogSkeletalMesh: Building Skeletal Mesh Jumping...
+[2019.04.03-09.16.39:628][466]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/anim/teleport/jump/Jumping.Jumping
+[2019.04.03-09.16.39:636][466]LogSkeletalMesh: Building Skeletal Mesh Jumping...
+[2019.04.03-09.16.39:656][466]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/anim/teleport/jump/Jumping.Jumping
+[2019.04.03-09.16.53:984][880]LogMetaData: Removing '/Game/anim/teleport/attack/TeleportMesh.TeleportMesh' ref from Metadata '/Game/anim/teleport/attack/Standing_2H_Magic_Attack_01.PackageMetaData'
+[2019.04.03-09.16.54:033][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/teleport/attack/TeleportMesh" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/TeleportMesh.uasset" SILENT=true
+[2019.04.03-09.16.54:086][880]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/TeleportMeshDA42E52B4032C2D730672E8D3B7F1040.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/TeleportMesh.uasset'
+[2019.04.03-09.16.54:504][880]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/Standing_2H_Magic_Attack_01_Phys79F42B434E4C575EFED4448762C56961.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/Standing_2H_Magic_Attack_01_PhysicsAsset.uasset'
+[2019.04.03-09.17.01:171][575]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.04.03-09.17.04:242][575]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2019.04.03-09.17.19:445][328]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/anim/teleport/attack/TeleportAnimBlueprint.TeleportAnimBlueprint
+[2019.04.03-09.17.19:572][328]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.04.03-09.17.20:171][328]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.03-09.17.20:183][328]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2019.04.03-09.17.21:610][328]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 117 classes and 0 folders.
+[2019.04.03-09.17.23:025][328]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.03-09.17.23:603][328]LogSlate: Took 0.008969 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.03-09.17.23:717][328]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2019.04.03-09.17.32:068][919]LogSlate: Took 0.001296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.03-09.19.56:198][747]BlueprintLog: New page: Compile TeleportAnimBlueprint
+[2019.04.03-09.19.57:128][782]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/TeleportAnimBlueprint4E06597F42BC648ABA3DF3ADB59056DA.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/TeleportAnimBlueprint.uasset'
+[2019.04.03-09.20.12:703][922]LogSlate: Window 'TeleportAnimBlueprint' being destroyed
+[2019.04.03-09.20.13:698][995]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/anim/teleport/attack/TeleportAnimBlueprint.TeleportAnimBlueprint
+[2019.04.03-09.20.13:715][995]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.03-09.20.14:128][995]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.03-09.20.24:692][742]BlueprintLog: New page: Compile TeleportAnimBlueprint
+[2019.04.03-09.20.39:705][839]BlueprintLog: New page: Compile TeleportAnimBlueprint
+[2019.04.03-09.20.40:619][874]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/TeleportAnimBlueprintA1E6AEAB4B362B0496C3A0872D6D6FFF.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/TeleportAnimBlueprint.uasset'
+[2019.04.03-09.20.41:949][975]LogSlate: Window 'TeleportAnimBlueprint' being destroyed
+[2019.04.03-09.21.14:758][740]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/Interactables/BP_BaseInteractable.BP_BaseInteractable_C:Pickup.ItemInfo'. Unknown structure.
+[2019.04.03-09.21.14:759][740]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/Interactables/BP_BaseInteractable.BP_BaseInteractable_C:ExecuteUbergraph_BP_BaseInteractable.K2Node_Event_ItemInfo'. Unknown structure.
+[2019.04.03-09.21.19:003][740]LogBlueprint: Warning: [Compiler ExplosiveAnimBlueprint] Could not find a variable named "isAttacking" in 'ExplosiveAnimBlueprint_C'.
+Make sure 'ExplosiveAnimBlueprint_C' has been compiled for  Set isAttacking
+[2019.04.03-09.21.19:199][740]LogBlueprint: Warning: [Compiler HeroCharacter] InputAction Event references unknown Action 'Inventory' for  InputAction Inventory
+[2019.04.03-09.21.19:411][740]LogBlueprint: Warning: [Compiler ExplosiveAnimBlueprint] [0483.98] Compile of ExplosiveAnimBlueprint successful, but with 1 Warning(s) [in 606 ms] (/Game/anim/explosive/idle/ExplosiveAnimBlueprint.ExplosiveAnimBlueprint)
+[2019.04.03-09.21.19:411][740]LogBlueprint: Warning: [Compiler HeroCharacter] [0483.98] Compile of HeroCharacter successful, but with 1 Warning(s) [in 607 ms] (/Game/Blueprints/HeroCharacter.HeroCharacter)
+[2019.04.03-09.21.20:636][740]LogLinker: Warning: Can't find file '/Game/Blueprints/Interactables/ESlotType'
+[2019.04.03-09.21.20:637][740]LogLinker: Warning: Can't find file '/Game/Blueprints/Interactables/ESlotType'
+[2019.04.03-09.21.20:637][740]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Blueprints/Interactables/ESlotType.ESlotType'
+[2019.04.03-09.21.21:586][740]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/EnemyCharacter.EnemyCharacter
+[2019.04.03-09.22.11:989][917]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.04.03-09.22.41:391][981]BlueprintLog: New page: Compile EnemyCharacter
+[2019.04.03-09.22.42:786][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/EnemyCharacter" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/Blueprints/Enemies/EnemyCharacter.uasset" SILENT=true
+[2019.04.03-09.22.43:070][ 19]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/EnemyCharacter08AA7A9545183DD91B966687BDA8CEFC.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/Blueprints/Enemies/EnemyCharacter.uasset'
+[2019.04.03-09.22.55:621][268]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/anim/charger/idle/ChargerAnimBlueprint.ChargerAnimBlueprint
+[2019.04.03-09.22.55:636][268]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.03-09.22.56:060][268]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.03-09.23.06:941][422]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/anim/teleport/attack/TeleportAnimBlueprint.TeleportAnimBlueprint
+[2019.04.03-09.23.06:959][422]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.03-09.23.07:416][422]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.03-09.23.09:954][578]LogSlate: Window 'TeleportAnimBlueprint' being destroyed
+[2019.04.03-09.23.39:239][706]BlueprintLog: New page: Compile ChargerAnimBlueprint
+[2019.04.03-09.23.40:003][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/anim/charger/idle/ChargerAnimBlueprint" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/anim/charger/idle/ChargerAnimBlueprint.uasset" SILENT=true
+[2019.04.03-09.23.40:092][746]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/ChargerAnimBlueprint2CE8643F45798E88B8555186FF6BD739.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/charger/idle/ChargerAnimBlueprint.uasset'
+[2019.04.03-09.23.54:866][385]BlueprintLog: New page: Compile TeleportAnimBlueprint
+[2019.04.03-09.23.56:227][484]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/TeleportAnimBlueprint9F33B2A0401359F4308145AD236F11A3.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/TeleportAnimBlueprint.uasset'
+[2019.04.03-09.24.55:978][848]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/EnemyCharacter.EnemyCharacter
+[2019.04.03-09.25.22:589][ 82]BlueprintLog: New page: Compile TeleportAnimBlueprint
+[2019.04.03-09.25.24:092][196]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/TeleportAnimBlueprintC1B81148449E9E475B6F23B84F3A0F27.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/TeleportAnimBlueprint.uasset'
+[2019.04.03-09.26.19:961][644]BlueprintLog: New page: Compile TeleportAnimBlueprint
+[2019.04.03-09.26.19:997][644]LogBlueprint: Error: [Compiler TeleportAnimBlueprint] The property associated with  Is Teleport  could not be found in '/Game/anim/teleport/attack/TeleportAnimBlueprint.TeleportAnimBlueprint_C'
+[2019.04.03-09.26.20:293][644]LogBlueprint: Warning: [Compiler TeleportAnimBlueprint] [0784.87] Compile of TeleportAnimBlueprint failed. 1 Fatal Issue(s) 0 Warning(s) [in 331 ms] (/Game/anim/teleport/attack/TeleportAnimBlueprint.TeleportAnimBlueprint)
+[2019.04.03-09.26.20:854][687]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/TeleportAnimBlueprint4A9D02F44A84F714E8520A886536DEE8.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/TeleportAnimBlueprint.uasset'
+[2019.04.03-09.26.44:408][ 36]BlueprintLog: New page: Compile TeleportAnimBlueprint
+[2019.04.03-09.26.44:433][ 36]LogBlueprint: Error: [Compiler TeleportAnimBlueprint] The property associated with  Is Teleport  could not be found in '/Game/anim/teleport/attack/TeleportAnimBlueprint.TeleportAnimBlueprint_C'
+[2019.04.03-09.26.44:718][ 36]LogBlueprint: Warning: [Compiler TeleportAnimBlueprint] [0809.29] Compile of TeleportAnimBlueprint failed. 1 Fatal Issue(s) 0 Warning(s) [in 310 ms] (/Game/anim/teleport/attack/TeleportAnimBlueprint.TeleportAnimBlueprint)
+[2019.04.03-09.26.58:352][362]BlueprintLog: New page: Compile EnemyCharacter
+[2019.04.03-09.26.59:767][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/EnemyCharacter" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/Blueprints/Enemies/EnemyCharacter.uasset" SILENT=true
+[2019.04.03-09.27.00:035][402]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/EnemyCharacter35A4419E480ABCF2CA0A4796D8092A19.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/Blueprints/Enemies/EnemyCharacter.uasset'
+[2019.04.03-09.27.02:596][618]BlueprintLog: New page: Compile TeleportAnimBlueprint
+[2019.04.03-09.27.05:831][861]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/TeleportAnimBlueprint260E9CB34A1F205F9F70C09324FCE525.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/teleport/attack/TeleportAnimBlueprint.uasset'
+[2019.04.03-09.27.13:107][628]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/anim/teleport/jump/Jumping_Anim_mixamo_com.Jumping_Anim_mixamo_com
+[2019.04.03-09.27.13:168][628]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.03-09.27.13:290][628]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.03-09.27.13:986][628]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.04.03-09.27.17:709][839]LogSlate: Window 'Jumping_Anim_mixamo_com' being destroyed
+[2019.04.03-09.27.42:600][756]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/EnemyAi.EnemyAi
+[2019.04.03-09.29.21:467][466]LogEditorTransaction: Undo Add Node
+[2019.04.03-09.29.21:681][466]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.03-09.29.40:474][889]BlueprintLog: New page: Compile EnemyAi
+[2019.04.03-09.29.41:385][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/EnemyAi" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/Blueprints/Enemies/EnemyAi.uasset" SILENT=true
+[2019.04.03-09.29.41:529][917]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/EnemyAi759A3FC141400FBD24C1F381E150526E.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/Blueprints/Enemies/EnemyAi.uasset'
+[2019.04.03-09.29.50:455][824]LogAssetEditorManager: Opening Asset editor for DataTable /Game/Blueprints/SpreadSheet_Interaction/Rooms/DT_RoomLayouts.DT_RoomLayouts
+[2019.04.03-09.30.01:048][914]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/DT_RoomLayouts0136AC204AFC6E1DB6F7379D7359F354.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/Blueprints/SpreadSheet_Interaction/Rooms/DT_RoomLayouts.uasset'
+[2019.04.03-09.30.01:954][999]LogSlate: Window 'DT_RoomLayouts' being destroyed
+[2019.04.03-09.30.03:383][163]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.03-09.30.03:455][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.03-09.30.03:489][163]PIE: New page: PIE session: Untitled_0 (Apr 3, 2019, 1:30:03 AM)
+[2019.04.03-09.30.03:659][163]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2019.04.03-09.30.03:684][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025014s)
+[2019.04.03-09.30.03:686][163]LogAIModule: Creating AISystem for world Untitled
+[2019.04.03-09.30.03:701][163]LogPlayLevel: PIE: World Init took: (0.016393s)
+[2019.04.03-09.30.03:701][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.042851s)
+[2019.04.03-09.30.03:824][163]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.03-09.30.03:845][163]LogInit: FAudioDevice initialized.
+[2019.04.03-09.30.03:856][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-09.30.03:932][163]LogLoad: Game class is 'TwinStickMode_C'
+[2019.04.03-09.30.03:947][163]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 0) at 2019.04.03-05.30.03
+[2019.04.03-09.30.03:961][163]LogWorld: Bringing up level for play took: 0.028389
+[2019.04.03-09.30.04:140][163]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 20 classes and 0 folders.
+[2019.04.03-09.30.04:238][163]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 1.696
+[2019.04.03-09.30.04:381][163]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2019.04.03-09.30.05:861][300]LogSlate: Window 'TwinStickShooter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.03-09.30.05:926][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.03-09.30.06:131][301]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.04.03-09.30.09:027][555]LogAIModule: Creating AISystem for world ArenaMap
+[2019.04.03-09.30.09:151][555]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/ArenaMap.ArenaMap
+[2019.04.03-09.30.09:239][555]Cmd: MAP LOAD FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/Maps/ArenaMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.03-09.30.09:239][555]LightingResults: New page: Lighting Build
+[2019.04.03-09.30.09:255][555]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0009 seconds. Added 5 classes and 0 folders.
+[2019.04.03-09.30.09:257][555]LoadErrors: New page: Loading map: ArenaMap.umap
+[2019.04.03-09.30.09:270][555]MapCheck: New page: Map Check
+[2019.04.03-09.30.09:270][555]LightingResults: New page: Lighting Build
+[2019.04.03-09.30.09:408][555]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.03-09.30.09:544][555]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.03-09.30.09:545][555]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.141ms to complete.
+[2019.04.03-09.30.09:545][555]LogFileHelpers: Loading map 'ArenaMap' took 0.326
+[2019.04.03-09.30.10:424][641]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.03-09.30.10:447][641]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ArenaMap.ArenaMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ArenaMap.ArenaMap:PersistentLevel.ArenaMap' with GeneratedClass '/Game/Maps/ArenaMap.ArenaMap_C' with ClassGeneratedBy '/Game/Maps/ArenaMap.ArenaMap:PersistentLevel.ArenaMap'
+[2019.04.03-09.30.10:447][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.03-09.30.10:447][641]PIE: New page: PIE session: ArenaMap (Apr 3, 2019, 1:30:10 AM)
+[2019.04.03-09.30.10:447][641]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ArenaMap
+[2019.04.03-09.30.10:458][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010611s)
+[2019.04.03-09.30.10:459][641]LogAIModule: Creating AISystem for world ArenaMap
+[2019.04.03-09.30.10:459][641]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2019.04.03-09.30.10:459][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ArenaMap.ArenaMap to /Game/Maps/UEDPIE_0_ArenaMap.ArenaMap (0.011977s)
+[2019.04.03-09.30.10:581][641]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.03-09.30.10:597][641]LogInit: FAudioDevice initialized.
+[2019.04.03-09.30.10:606][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-09.30.10:645][641]LogLoad: Game class is 'TwinStickMode_C'
+[2019.04.03-09.30.10:662][641]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2019.04.03-05.30.10
+[2019.04.03-09.30.10:728][641]LogWorld: Bringing up level for play took: 0.081790
+[2019.04.03-09.30.10:786][641]LogBlueprintUserMessages: [Room_2] X=684318.125 Y=-192162.125 Z=573.000
+[2019.04.03-09.30.10:803][641]LogBlueprintUserMessages: [EnemyCharacter_C_0] Teleport
+[2019.04.03-09.30.10:804][641]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_0.CharacterMesh0: Material index 0 is invalid.
+[2019.04.03-09.30.10:804][641]LogScript: Warning: Accessed None trying to read property Dyna Mat
+	EnemyCharacter_C /Game/Maps/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/Blueprints/Enemies/EnemyCharacter.EnemyCharacter_C:ChangeBaseColor:0065
+[2019.04.03-09.30.10:804][641]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Dyna Mat". Blueprint:  EnemyCharacter Function:  Change Base Color Graph:  ChangeBaseColor Node:  Set Vector Parameter Value
+[2019.04.03-09.30.10:804][641]LogBlueprintUserMessages: [Room_2] X=684464.750 Y=-191959.250 Z=573.000
+[2019.04.03-09.30.10:806][641]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=684464.750 Y=-191959.250 Z=573.000] for [EnemyCharacter_C]
+[2019.04.03-09.30.10:806][641]LogBlueprintUserMessages: [Room_2] CastFailed
+[2019.04.03-09.30.10:806][641]LogBlueprintUserMessages: [Room_2] X=684464.750 Y=-193785.125 Z=573.000
+[2019.04.03-09.30.10:808][641]LogBlueprintUserMessages: [EnemyCharacter_C_2] Teleport
+[2019.04.03-09.30.10:808][641]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_2.CharacterMesh0: Material index 0 is invalid.
+[2019.04.03-09.30.10:808][641]LogScript: Warning: Accessed None trying to read property Dyna Mat
+	EnemyCharacter_C /Game/Maps/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/Blueprints/Enemies/EnemyCharacter.EnemyCharacter_C:ChangeBaseColor:0065
+[2019.04.03-09.30.10:808][641]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Dyna Mat". Blueprint:  EnemyCharacter Function:  Change Base Color Graph:  ChangeBaseColor Node:  Set Vector Parameter Value
+[2019.04.03-09.30.10:808][641]LogBlueprintUserMessages: [Room_2] X=683145.125 Y=-191959.250 Z=573.000
+[2019.04.03-09.30.10:810][641]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=683145.125 Y=-191959.250 Z=573.000] for [EnemyCharacter_C]
+[2019.04.03-09.30.10:810][641]LogBlueprintUserMessages: [Room_2] CastFailed
+[2019.04.03-09.30.10:815][641]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_ArenaMap 0.273
+[2019.04.03-09.30.10:815][641]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ArenaMap.ArenaMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ArenaMap.ArenaMap:PersistentLevel.ArenaMap' with GeneratedClass '/Game/Maps/ArenaMap.ArenaMap_C' with ClassGeneratedBy '/Game/Maps/ArenaMap.ArenaMap:PersistentLevel.ArenaMap'
+[2019.04.03-09.30.10:945][642]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.095716 > MaxSimulationTimeStep (0.050) for 'HeroCharacter_C_0', movement 'Walking'
+[2019.04.03-09.30.19:852][545]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ArenaMap.ArenaMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ArenaMap.ArenaMap:PersistentLevel.ArenaMap' with GeneratedClass '/Game/Maps/ArenaMap.ArenaMap_C' with ClassGeneratedBy '/Game/Maps/ArenaMap.ArenaMap:PersistentLevel.ArenaMap'
+[2019.04.03-09.30.19:853][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-09.30.19:883][545]LogSlate: Window 'TwinStickShooter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.03-09.30.19:924][545]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.03-09.30.19:924][545]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ArenaMap.ArenaMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ArenaMap.ArenaMap:PersistentLevel.ArenaMap' with GeneratedClass '/Game/Maps/ArenaMap.ArenaMap_C' with ClassGeneratedBy '/Game/Maps/ArenaMap.ArenaMap:PersistentLevel.ArenaMap'
+[2019.04.03-09.30.20:095][546]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.04.03-09.30.28:122][453]LogSlate: Window 'Message Log' being destroyed
+[2019.04.03-09.30.28:127][453]LogSlate: Window 'Message Log' being destroyed
+[2019.04.03-09.30.31:115][787]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/EnemyCharacter.EnemyCharacter
+[2019.04.03-09.30.42:067][344]BlueprintLog: New page: Compile EnemyCharacter
+[2019.04.03-09.30.43:432][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/EnemyCharacter" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/Blueprints/Enemies/EnemyCharacter.uasset" SILENT=true
+[2019.04.03-09.30.43:703][368]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/EnemyCharacter5A8291124068D593A034E79498D52441.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/Blueprints/Enemies/EnemyCharacter.uasset'
+[2019.04.03-09.30.45:917][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ArenaMap" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/Maps/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.03-09.30.46:395][574]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/ArenaMapBE07C18C43EF93E3DCAC2B93712F68B3.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/Maps/ArenaMap.umap'
+[2019.04.03-09.30.46:451][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ArenaMap_BuiltData" FILE="../../../../../Documents/Unreal Projects/CAP4053/Content/Maps/ArenaMap_BuiltData.uasset" SILENT=true
+[2019.04.03-09.30.46:537][574]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/ArenaMap_BuiltDataA0EE6A894DB4675FA6F499A12C395D71.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/Maps/ArenaMap_BuiltData.uasset'
+[2019.04.03-09.30.46:965][621]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.03-09.30.46:992][621]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ArenaMap.ArenaMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ArenaMap.ArenaMap:PersistentLevel.ArenaMap' with GeneratedClass '/Game/Maps/ArenaMap.ArenaMap_C' with ClassGeneratedBy '/Game/Maps/ArenaMap.ArenaMap:PersistentLevel.ArenaMap'
+[2019.04.03-09.30.46:992][621]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.03-09.30.46:992][621]PIE: New page: PIE session: ArenaMap (Apr 3, 2019, 1:30:46 AM)
+[2019.04.03-09.30.46:992][621]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ArenaMap
+[2019.04.03-09.30.47:003][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010341s)
+[2019.04.03-09.30.47:003][621]LogAIModule: Creating AISystem for world ArenaMap
+[2019.04.03-09.30.47:003][621]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2019.04.03-09.30.47:003][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ArenaMap.ArenaMap to /Game/Maps/UEDPIE_0_ArenaMap.ArenaMap (0.011210s)
+[2019.04.03-09.30.47:087][621]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.03-09.30.47:103][621]LogInit: FAudioDevice initialized.
+[2019.04.03-09.30.47:111][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-09.30.47:145][621]LogLoad: Game class is 'TwinStickMode_C'
+[2019.04.03-09.30.47:149][621]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2019.04.03-05.30.47
+[2019.04.03-09.30.47:150][621]LogWorld: Bringing up level for play took: 0.004093
+[2019.04.03-09.30.47:170][621]LogBlueprintUserMessages: [Room_2] X=684318.125 Y=-192162.125 Z=573.000
+[2019.04.03-09.30.47:172][621]LogBlueprintUserMessages: [EnemyCharacter_C_0] Teleport
+[2019.04.03-09.30.47:172][621]LogAnimation: Warning: AnimBP EnemyAnimBP_C is incompatible with skeleton Teleport_Skeleton, removing AnimBP from actor.
+[2019.04.03-09.30.47:173][621]LogBlueprintUserMessages: [Room_2] X=684464.750 Y=-191959.250 Z=573.000
+[2019.04.03-09.30.47:174][621]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=684464.750 Y=-191959.250 Z=573.000] for [EnemyCharacter_C]
+[2019.04.03-09.30.47:174][621]LogBlueprintUserMessages: [Room_2] CastFailed
+[2019.04.03-09.30.47:174][621]LogBlueprintUserMessages: [Room_2] X=684464.750 Y=-193785.125 Z=573.000
+[2019.04.03-09.30.47:176][621]LogBlueprintUserMessages: [EnemyCharacter_C_2] Teleport
+[2019.04.03-09.30.47:176][621]LogAnimation: Warning: AnimBP EnemyAnimBP_C is incompatible with skeleton Teleport_Skeleton, removing AnimBP from actor.
+[2019.04.03-09.30.47:177][621]LogBlueprintUserMessages: [Room_2] X=683145.125 Y=-191959.250 Z=573.000
+[2019.04.03-09.30.47:178][621]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=683145.125 Y=-191959.250 Z=573.000] for [EnemyCharacter_C]
+[2019.04.03-09.30.47:178][621]LogBlueprintUserMessages: [Room_2] CastFailed
+[2019.04.03-09.30.47:182][621]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_ArenaMap 0.64
+[2019.04.03-09.30.47:183][621]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ArenaMap.ArenaMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ArenaMap.ArenaMap:PersistentLevel.ArenaMap' with GeneratedClass '/Game/Maps/ArenaMap.ArenaMap_C' with ClassGeneratedBy '/Game/Maps/ArenaMap.ArenaMap:PersistentLevel.ArenaMap'
+[2019.04.03-09.31.00:784][913]LogScript: Warning: Accessed None trying to read property CameraReference
+	Room_C /Game/Maps/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.Room_2
+	Function /Game/Blueprints/Rooms/Room.Room_C:ExecuteUbergraph_Room:14A8
+[2019.04.03-09.31.00:784][913]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CameraReference". Blueprint:  Room Function:  Execute Ubergraph Room Graph:  EventGraph Node:  SetWorldLocation
+[2019.04.03-09.31.00:784][913]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Room_C /Game/Maps/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.Room_2
+	Function /Game/Blueprints/Rooms/Room.Room_C:ExecuteUbergraph_Room:158A
+[2019.04.03-09.31.00:784][913]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  Room Function:  Execute Ubergraph Room Graph:  EventGraph Node:  SetWorldLocation
+[2019.04.03-09.31.04:533][313]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ArenaMap.ArenaMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ArenaMap.ArenaMap:PersistentLevel.ArenaMap' with GeneratedClass '/Game/Maps/ArenaMap.ArenaMap_C' with ClassGeneratedBy '/Game/Maps/ArenaMap.ArenaMap:PersistentLevel.ArenaMap'
+[2019.04.03-09.31.04:533][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-09.31.04:564][313]LogSlate: Window 'TwinStickShooter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.03-09.31.04:603][313]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.03-09.31.04:603][313]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ArenaMap.ArenaMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ArenaMap.ArenaMap:PersistentLevel.ArenaMap' with GeneratedClass '/Game/Maps/ArenaMap.ArenaMap_C' with ClassGeneratedBy '/Game/Maps/ArenaMap.ArenaMap:PersistentLevel.ArenaMap'
+[2019.04.03-09.31.04:759][314]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.04.03-09.31.08:253][702]LogSlate: Window 'Message Log' being destroyed
+[2019.04.03-09.31.08:260][702]LogSlate: Window 'Message Log' being destroyed
+[2019.04.03-09.31.10:027][892]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/EnemyCharacter.EnemyCharacter
+[2019.04.03-09.31.30:173][685]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/anim/turret/attack/TurretAnimBlueprint.TurretAnimBlueprint
+[2019.04.03-09.31.30:191][685]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.03-09.31.30:594][685]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.03-09.31.46:072][320]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/anim/explosive/idle/ExplosiveAnimBlueprint.ExplosiveAnimBlueprint
+[2019.04.03-09.31.46:089][320]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.03-09.31.46:493][320]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.03-09.32.01:632][747]BlueprintLog: New page: Compile ExplosiveAnimBlueprint
+[2019.04.03-09.32.02:499][789]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CAP4053/Saved/ExplosiveAnimBlueprint79F8D6414FEC7220AF1E89A9C5A499A2.tmp' to '../../../../../Documents/Unreal Projects/CAP4053/Content/anim/explosive/idle/ExplosiveAnimBlueprint.uasset'
+[2019.04.03-09.32.15:634][113]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/EnemyCharacter.EnemyCharacter
+[2019.04.03-09.32.48:334][245]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/anim/teleport/attack/TeleportAnimBlueprint.TeleportAnimBlueprint
+[2019.04.03-09.32.48:352][245]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.03-09.32.48:756][245]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.03-09.33.05:862][129]LogUObjectBase: Warning: Object is not registered
+[2019.04.03-09.33.05:862][129]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.04.03-09.33.07:773][129]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.897 s
+[2019.04.03-09.33.07:787][129]LogOutputDevice: Error: === Handled ensure: ===
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: 
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: Stack: 
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: [Callstack] 0x00007ffdcb1b8304 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: [Callstack] 0x00007ffdcb1c81ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: [Callstack] 0x00007ffdc346bcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: [Callstack] 0x00007ffdc1f1769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: [Callstack] 0x00007ffdc1ed0917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: [Callstack] 0x00007ffdfb6a7c74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: [Callstack] 0x00007ffdfb8f4393 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: [Callstack] 0x00007ffdfb702d7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: [Callstack] 0x00007ffdfb6d8a70 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: [Callstack] 0x00007ffdfb6cb263 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: [Callstack] 0x00007ffe1546dc66 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: [Callstack] 0x00007ffe15460de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: [Callstack] 0x00007ffe154701eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: [Callstack] 0x00007ffe1545ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: [Callstack] 0x00007ffe4c636d41 USER32.dll!UnknownFunction []
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: [Callstack] 0x00007ffe4c636713 USER32.dll!UnknownFunction []
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: [Callstack] 0x00007ffe15471746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: [Callstack] 0x00007ff70f965546 UE4Editor.exe!UnknownFunction []
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: [Callstack] 0x00007ff70f97596c UE4Editor.exe!UnknownFunction []
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: [Callstack] 0x00007ff70f9759ea UE4Editor.exe!UnknownFunction []
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: [Callstack] 0x00007ff70f9848da UE4Editor.exe!UnknownFunction []
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: [Callstack] 0x00007ff70f98659a UE4Editor.exe!UnknownFunction []
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: [Callstack] 0x00007ffe49c93dc4 KERNEL32.DLL!UnknownFunction []
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: [Callstack] 0x00007ffe4c863691 ntdll.dll!UnknownFunction []
+[2019.04.03-09.33.07:788][129]LogOutputDevice: Error: 
+[2019.04.03-09.33.07:793][129]LogStats:                SubmitErrorReport -  0.000 s
