@@ -123,7 +123,7 @@ LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
 LogInit: Compiled with Visual C++: 19.13.26129.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.21
-LogInit: Command Line: 
+LogInit: Command Line:
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 22
@@ -479,7 +479,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.04.27-16.31.12:567][  0]LogWindows:    5. 'AMD Radeon HD 7900 Series' (P:0 D:0)
 [2019.04.27-16.31.12:568][  0]LogWindows:    6. 'AMD Radeon HD 7900 Series' (P:0 D:0)
 [2019.04.27-16.31.12:568][  0]LogWindows:    7. 'AMD Radeon HD 7900 Series' (P:0 D:0)
-[2019.04.27-16.31.12:568][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2019.04.27-16.31.12:568][  0]LogWindows: DebugString: FoundDriverCount:8
 [2019.04.27-16.31.12:568][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 7900 Series
 [2019.04.27-16.31.12:568][  0]LogD3D11RHI:   Driver Version: Adrenalin 2019 19.3.3 (internal:25.20.15027.9004, unified:25.20.15027.9004)
 [2019.04.27-16.31.12:568][  0]LogD3D11RHI:      Driver Date: 3-18-2019
