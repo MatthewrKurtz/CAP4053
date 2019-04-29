@@ -1,0 +1,2408 @@
+[
+	{
+		"Name": "EnemiesInTheCorners",
+		"Layout": [
+			{
+				"X-Coordinate": 10,
+				"Y-Coordinate": 10,
+				"TileType": "Enemy_Charger",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 0,
+				"Y-Coordinate": 0,
+				"TileType": "Enemy_Charger",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 0,
+				"Y-Coordinate": 10,
+				"TileType": "Enemy_Charger",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 10,
+				"Y-Coordinate": 0,
+				"TileType": "Enemy_Charger",
+				"PatrolLocations": []
+			}
+		]
+	},
+	{
+		"Name": "Test",
+		"Layout": [
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 5,
+				"TileType": "None",
+				"PatrolLocations": [
+					{
+						"X": 0,
+						"Y": 0,
+						"Z": 0
+					},
+					{
+						"X": 5,
+						"Y": 5,
+						"Z": 0
+					},
+					{
+						"X": 5,
+						"Y": 0,
+						"Z": 0
+					},
+					{
+						"X": 0,
+						"Y": 5,
+						"Z": 0
+					}
+				]
+			}
+		]
+	},
+	{
+		"Name": "Hall",
+		"Layout": [
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 9,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 9,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 1,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 1,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 0,
+				"Y-Coordinate": 0,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 1,
+				"Y-Coordinate": 1,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 2,
+				"Y-Coordinate": 2,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 2,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 9,
+				"Y-Coordinate": 1,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 10,
+				"Y-Coordinate": 0,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 0,
+				"Y-Coordinate": 10,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 1,
+				"Y-Coordinate": 9,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 2,
+				"Y-Coordinate": 8,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 8,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 9,
+				"Y-Coordinate": 9,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 10,
+				"Y-Coordinate": 10,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 5,
+				"TileType": "Enemy_Charger",
+				"PatrolLocations": []
+			}
+		]
+	},
+	{
+		"Name": "TurretsInCorners",
+		"Layout": [
+			{
+				"X-Coordinate": 1,
+				"Y-Coordinate": 1,
+				"TileType": "Item_TridentPickup",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 3,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 7,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 7,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 3,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 4,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 2,
+				"Y-Coordinate": 4,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 4,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 4,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 4,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 4,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 4,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 4,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 2,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 2,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 8,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 8,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 8,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 2,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 2,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 2,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			}
+		]
+	},
+	{
+		"Name": "Diamond",
+		"Layout": [
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 5,
+				"TileType": "Item_HealthPotion",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 4,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 6,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 4,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 6,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 0,
+				"Y-Coordinate": 4,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 1,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 2,
+				"Y-Coordinate": 2,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 1,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 0,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 0,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 1,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 2,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 9,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 10,
+				"Y-Coordinate": 4,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 0,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 1,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 2,
+				"Y-Coordinate": 8,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 9,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 10,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 10,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 9,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 8,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 9,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 10,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			}
+		]
+	},
+	{
+		"Name": "EnemiesAlongTheWalls_Vertical",
+		"Layout": [
+			{
+				"X-Coordinate": 0,
+				"Y-Coordinate": 1,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 0,
+				"Y-Coordinate": 5,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 0,
+				"Y-Coordinate": 9,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 10,
+				"Y-Coordinate": 1,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 10,
+				"Y-Coordinate": 5,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 10,
+				"Y-Coordinate": 9,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 1,
+				"Y-Coordinate": 10,
+				"TileType": "Obstacle_Railing",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 1,
+				"Y-Coordinate": 9,
+				"TileType": "Obstacle_Railing",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 1,
+				"Y-Coordinate": 8,
+				"TileType": "Obstacle_Railing",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 1,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Railing",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 1,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Railing",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 1,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Railing",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 1,
+				"Y-Coordinate": 4,
+				"TileType": "Obstacle_Railing",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 1,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Railing",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 1,
+				"Y-Coordinate": 2,
+				"TileType": "Obstacle_Railing",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 1,
+				"Y-Coordinate": 1,
+				"TileType": "Obstacle_Railing",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 1,
+				"Y-Coordinate": 0,
+				"TileType": "Obstacle_Railing",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 9,
+				"Y-Coordinate": 10,
+				"TileType": "Obstacle_Railing",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 9,
+				"Y-Coordinate": 9,
+				"TileType": "Obstacle_Railing",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 9,
+				"Y-Coordinate": 8,
+				"TileType": "Obstacle_Railing",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 9,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Railing",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 9,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Railing",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 9,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Railing",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 9,
+				"Y-Coordinate": 4,
+				"TileType": "Obstacle_Railing",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 9,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Railing",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 9,
+				"Y-Coordinate": 2,
+				"TileType": "Obstacle_Railing",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 9,
+				"Y-Coordinate": 1,
+				"TileType": "Obstacle_Railing",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 9,
+				"Y-Coordinate": 0,
+				"TileType": "Obstacle_Railing",
+				"PatrolLocations": []
+			}
+		]
+	},
+	{
+		"Name": "ThreeLanes",
+		"Layout": [
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 6,
+				"TileType": "Item_HomingMissileLauncherPickup",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 6,
+				"TileType": "Enemy_Charger",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 6,
+				"TileType": "Enemy_Charger",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 4,
+				"TileType": "Enemy_Charger",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 4,
+				"TileType": "Enemy_Charger",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 2,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 9,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 2,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 9,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 2,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 9,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 1,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 2,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 0,
+				"Y-Coordinate": 0,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 1,
+				"Y-Coordinate": 0,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 2,
+				"Y-Coordinate": 0,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 0,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 0,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 0,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 9,
+				"Y-Coordinate": 0,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 10,
+				"Y-Coordinate": 0,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 0,
+				"Y-Coordinate": 10,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 1,
+				"Y-Coordinate": 10,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 2,
+				"Y-Coordinate": 10,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 10,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 10,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 10,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 9,
+				"Y-Coordinate": 10,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 10,
+				"Y-Coordinate": 10,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			}
+		]
+	},
+	{
+		"Name": "Intro_GetTheItem",
+		"Layout": [
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 5,
+				"TileType": "Enemy_Charger",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 4,
+				"TileType": "Enemy_Charger",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 6,
+				"TileType": "Enemy_Charger",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 5,
+				"TileType": "Enemy_Charger",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 5,
+				"TileType": "Item_ShotgunPickup",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Rock_Destructable",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 4,
+				"TileType": "Obstacle_Rock_Destructable",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Rock_Destructable",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Rock_Destructable",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock_Destructable",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 4,
+				"TileType": "Obstacle_Rock_Destructable",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Rock_Destructable",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Rock_Destructable",
+				"PatrolLocations": []
+			}
+		]
+	},
+	{
+		"Name": "BossSloth",
+		"Layout": [
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 9,
+				"TileType": "Enemy_BossSloth",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 0,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 1,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 2,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 9,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 10,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			}
+		]
+	},
+	{
+		"Name": "Enemy_Coves",
+		"Layout": [
+			{
+				"X-Coordinate": 2,
+				"Y-Coordinate": 6,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 5,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 6,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 1,
+				"Y-Coordinate": 1,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 9,
+				"Y-Coordinate": 1,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 1,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 2,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 4,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 9,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			}
+		]
+	},
+	{
+		"Name": "Plus",
+		"Layout": [
+			{
+				"X-Coordinate": 1,
+				"Y-Coordinate": 1,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 9,
+				"Y-Coordinate": 1,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 1,
+				"Y-Coordinate": 9,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 9,
+				"Y-Coordinate": 9,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 4,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 4,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 6,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 6,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 0,
+				"Y-Coordinate": 0,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 0,
+				"Y-Coordinate": 1,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 1,
+				"Y-Coordinate": 0,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 9,
+				"Y-Coordinate": 0,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 10,
+				"Y-Coordinate": 10,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 10,
+				"Y-Coordinate": 1,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 10,
+				"Y-Coordinate": 0,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 10,
+				"Y-Coordinate": 9,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 10,
+				"Y-Coordinate": 10,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 9,
+				"Y-Coordinate": 10,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 0,
+				"Y-Coordinate": 9,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 0,
+				"Y-Coordinate": 10,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 1,
+				"Y-Coordinate": 10,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 4,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			}
+		]
+	},
+	{
+		"Name": "SingleTurret",
+		"Layout": [
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 5,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Railing_90",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Railing",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Railing",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 4,
+				"TileType": "Obstacle_Railing",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Railing",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Railing",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 4,
+				"TileType": "Obstacle_Railing",
+				"PatrolLocations": []
+			}
+		]
+	},
+	{
+		"Name": "Treasure_ChargeShot",
+		"Layout": [
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 5,
+				"TileType": "Item_ChargeShotPickup",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 4,
+				"TileType": "Item_HealthPotion",
+				"PatrolLocations": []
+			}
+		]
+	},
+	{
+		"Name": "Treasure_TridentShot",
+		"Layout": [
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 5,
+				"TileType": "Item_TridentPickup",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 4,
+				"TileType": "Item_HealthPotion",
+				"PatrolLocations": []
+			}
+		]
+	},
+	{
+		"Name": "Treasure_HomingMissileLauncher",
+		"Layout": [
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 5,
+				"TileType": "Item_HomingMissileLauncherPickup",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 4,
+				"TileType": "Item_HealthPotion",
+				"PatrolLocations": []
+			}
+		]
+	},
+	{
+		"Name": "Bases",
+		"Layout": [
+			{
+				"X-Coordinate": 2,
+				"Y-Coordinate": 9,
+				"TileType": "Obstacle_Rock_Destructable",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 8,
+				"TileType": "Obstacle_Rock_Destructable",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock_Destructable",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock_Destructable",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock_Destructable",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 8,
+				"TileType": "Obstacle_Rock_Destructable",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 9,
+				"TileType": "Obstacle_Rock_Destructable",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 9,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 8,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 8,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 8,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 9,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			},
+		]
+	},
+	{
+		"Name": "Swarm",
+		"Layout": [
+			{
+				"X-Coordinate": 2,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 2,
+				"Y-Coordinate": 4,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 2,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 2,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 2,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Rock_Destructable",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Rock_Destructable",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock_Destructable",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Rock_Destructable",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 4,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 4,
+				"TileType": "Enemy_Swarm",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 5,
+				"TileType": "Enemy_Swarm",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 6,
+				"TileType": "Enemy_Swarm",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 4,
+				"TileType": "Enemy_Swarm",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 5,
+				"TileType": "Enemy_Swarm",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 6,
+				"TileType": "Enemy_Swarm",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 4,
+				"TileType": "Enemy_Swarm",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 5,
+				"TileType": "Enemy_Swarm",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 6,
+				"TileType": "Enemy_Swarm",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 4,
+				"TileType": "Enemy_Swarm",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 5,
+				"TileType": "Enemy_Swarm",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 6,
+				"TileType": "Enemy_Swarm",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 4,
+				"TileType": "Enemy_Swarm",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 5,
+				"TileType": "Enemy_Swarm",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 6,
+				"TileType": "Enemy_Swarm",
+				"PatrolLocations": []
+			},
+		]
+	},
+	{
+		"Name": "Explosive",
+		"Layout": [
+			{
+				"X-Coordinate": 2,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 2,
+				"Y-Coordinate": 4,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 2,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 2,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 2,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Rock_Destructable",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Rock_Destructable",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock_Destructable",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Rock_Destructable",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 4,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 4,
+				"TileType": "Enemy_Explosive",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 5,
+				"TileType": "Enemy_Explosive",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 6,
+				"TileType": "Enemy_Explosive",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 4,
+				"TileType": "Enemy_Explosive",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 5,
+				"TileType": "Enemy_Explosive",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 6,
+				"TileType": "Enemy_Explosive",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 4,
+				"TileType": "Enemy_Explosive",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 5,
+				"TileType": "Enemy_Explosive",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 6,
+				"TileType": "Enemy_Explosive",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 4,
+				"TileType": "Enemy_Explosive",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 5,
+				"TileType": "Enemy_Explosive",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 6,
+				"TileType": "Enemy_Explosive",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 4,
+				"TileType": "Enemy_Explosive",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 5,
+				"TileType": "Enemy_Explosive",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 8,
+				"Y-Coordinate": 6,
+				"TileType": "Enemy_Explosive",
+				"PatrolLocations": []
+			},
+		]
+	},
+	{
+		"Name": "ExplosiveCorners",
+		"Layout": [
+			{
+				"X-Coordinate": 0,
+				"Y-Coordinate": 0,
+				"TileType": "Enemy_Explosive",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 0,
+				"Y-Coordinate": 10,
+				"TileType": "Enemy_Explosive",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 10,
+				"Y-Coordinate": 0,
+				"TileType": "Enemy_Explosive",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 10,
+				"Y-Coordinate": 10,
+				"TileType": "Enemy_Explosive",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 4,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 4,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 4,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 3,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 3,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 4,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 7,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 7,
+				"Y-Coordinate": 6,
+				"TileType": "Obstacle_Rock",
+				"PatrolLocations": []
+			},
+		]
+	},
+	{
+		"Name": "Spread",
+		"Layout": [
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 4,
+				"TileType": "Enemy_Patrol",
+				"PatrolLocations": [
+					{
+						"X": 0,
+					  "Y": 0,
+						"Z": 0
+				  }
+				]
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 5,
+				"TileType": "Enemy_Patrol",
+				"PatrolLocations": [
+					{
+						"X": 0,
+						"Y": 5,
+						"Z": 0
+					}
+				]
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 6,
+				"TileType": "Enemy_Patrol",
+				"PatrolLocations": [
+					{
+						"X": 0,
+						"Y": 10,
+						"Z": 0
+					}
+				]
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 4,
+				"TileType": "Enemy_Patrol",
+				"PatrolLocations": [
+					{
+						"X": 5,
+						"Y": 0,
+						"Z": 0
+					}
+				]
+			},
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 6,
+				"TileType": "Enemy_Patrol",
+				"PatrolLocations": [
+					{
+						"X": 5,
+						"Y": 10,
+						"Z": 0
+					}
+				]
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 4,
+				"TileType": "Enemy_Patrol",
+				"PatrolLocations": [
+					{
+						"X": 10,
+						"Y": 0,
+						"Z": 0
+					}
+				]
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 5,
+				"TileType": "Enemy_Patrol",
+				"PatrolLocations": [
+					{
+						"X": 10,
+						"Y": 5,
+						"Z": 0
+					}
+				]
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 6,
+				"TileType": "Enemy_Patrol",
+				"PatrolLocations": [
+					{
+						"X": 10,
+						"Y": 10,
+						"Z": 0
+					}
+				]
+			}
+		]
+	},
+	{
+		"Name": "Template",
+		"Layout": [
+			{
+				"X-Coordinate": 2,
+				"Y-Coordinate": 6,
+				"TileType": "Enemy_Turret",
+				"PatrolLocations": []
+			}
+		]
+	}
+]
