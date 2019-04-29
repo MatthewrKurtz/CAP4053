@@ -1121,26 +1121,26 @@
 		"Name": "Intro_GetTheItem",
 		"Layout": [
 			{
-				"X-Coordinate": 4,
-				"Y-Coordinate": 5,
+				"X-Coordinate": 2,
+				"Y-Coordinate": 2,
 				"TileType": "Enemy_Charger",
 				"PatrolLocations": []
 			},
 			{
-				"X-Coordinate": 5,
-				"Y-Coordinate": 4,
+				"X-Coordinate": 2,
+				"Y-Coordinate": 8,
 				"TileType": "Enemy_Charger",
 				"PatrolLocations": []
 			},
 			{
-				"X-Coordinate": 5,
-				"Y-Coordinate": 6,
+				"X-Coordinate": 8,
+				"Y-Coordinate": 2,
 				"TileType": "Enemy_Charger",
 				"PatrolLocations": []
 			},
 			{
-				"X-Coordinate": 6,
-				"Y-Coordinate": 5,
+				"X-Coordinate": 8,
+				"Y-Coordinate": 8,
 				"TileType": "Enemy_Charger",
 				"PatrolLocations": []
 			},
@@ -2391,6 +2391,46 @@
 						"Z": 0
 					}
 				]
+			}
+		]
+	},
+	{
+		"Name": "Start",
+		"Layout": [
+			{
+				"X-Coordinate": 5,
+				"Y-Coordinate": 5,
+				"TileType": "Obstacle_Rock_Destructable",
+				"PatrolLocations": []
+			}
+		]
+	},
+	{
+		"Name": "Health",
+		"Layout": [
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 4,
+				"TileType": "Item_HealthPotion",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 4,
+				"Y-Coordinate": 6,
+				"TileType": "Item_HealthPotion",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 4,
+				"TileType": "Item_HealthPotion",
+				"PatrolLocations": []
+			},
+			{
+				"X-Coordinate": 6,
+				"Y-Coordinate": 6,
+				"TileType": "Item_HealthPotion",
+				"PatrolLocations": []
 			}
 		]
 	},
